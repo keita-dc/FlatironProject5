@@ -1,0 +1,1384 @@
+,label
+for,Census Api Fips 'For' Clause
+in,Census Api Fips 'In' Clause
+ucgid,Uniform Census Geography Identifier Clause
+DP02_0126E,Estimate Ancestry Total Population Danish
+DP05_0050PE, Race Total Population One Race Asian Vietnamese
+DP04_0047E,Estimate Housing Tenure Occupied Housing Units Renter-Occupied
+DP02PR_0083PE, Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In Puerto Rico Different Municipio
+DP02PR_0106PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Africa
+DP04_0046E,Estimate Housing Tenure Occupied Housing Units Owner-Occupied
+DP04_0016PE, Year Structure Built Total Housing Units
+DP02_0125E,Estimate Ancestry Total Population Czech
+DP02_0054PE, School Enrollment Population 3 Years And Over Enrolled In School Kindergarten
+DP04_0049E,Estimate Housing Tenure Occupied Housing Units Average Household Size Of Renter-Occupied Unit
+DP03_0048PE, Class Of Worker Civilian Employed Population 16 Years And Over Government Workers
+DP04_0029PE, Rooms Total Housing Units 2 Rooms
+DP02_0124E,Estimate Ancestry Total Population Arab
+DP04_0048E,Estimate Housing Tenure Occupied Housing Units Average Household Size Of Owner-Occupied Unit
+PUMA5,Geography
+DP02_0123E,Estimate Ancestry Total Population American
+SLDL,Geography
+DP02PR_0017PE, Relationship Population In Households
+SLDU,Geography
+DP04_0043E,Estimate Bedrooms Total Housing Units 4 Bedrooms
+DP02PR_0128E,Estimate Ancestry Total Population English
+DP03_0022PE, Commuting To Work Workers 16 Years And Over Walked
+DP02_0122E,Estimate Ancestry Total Population
+DP04_0003PE, Housing Occupancy Total Housing Units Vacant Housing Units
+DP04_0042E,Estimate Bedrooms Total Housing Units 3 Bedrooms
+DP02_0143PE, Ancestry Total Population Slovak
+DP02PR_0127E,Estimate Ancestry Total Population Dutch
+DP02_0010PE, Households By Type Total Households Nonfamily Households
+DP02_0121E,Estimate Language Spoken At Home Population 5 Years And Over Other Languages Speak English Less Than Very Well
+DP02PR_0070PE, Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population
+DP02_0130PE, Ancestry Total Population French Canadian
+DP03_0111PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage With Private Health Insurance
+DP04_0045E,Estimate Housing Tenure Occupied Housing Units
+DP04_0136PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed)
+DP02PR_0137PE, Ancestry Total Population Norwegian
+DP02_0120E,Estimate Language Spoken At Home Population 5 Years And Over Other Languages
+DP03_0109E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed
+DP02_0067PE, Educational Attainment Population 25 Years And Over Percent Bachelor'S Degree Or Higher
+DP04_0044E,Estimate Bedrooms Total Housing Units 5 Or More Bedrooms
+AIRES,Geography
+DP02PR_0129E,Estimate Ancestry Total Population French (Except Basque)
+DP03_0035PE, Industry Civilian Employed Population 16 Years And Over Manufacturing
+DP04_0110PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed)
+DP02PR_0083E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In Puerto Rico Different Municipio
+DP05_0028E,Estimate Sex And Age Total Population 18 Years And Over Sex Ratio (Males Per 100 Females)
+DP05_0028PE, Sex And Age Total Population 18 Years And Over Sex Ratio (Males Per 100 Females)
+DP02_0085PE, Residence 1 Year Ago Population 1 Year And Over Abroad
+DP03_0066PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Social Security
+DP04_0047PE, Housing Tenure Occupied Housing Units Renter-Occupied
+DP03_0107E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage With Public Coverage
+DP05_0081PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Native Hawaiian And Other Pacific Islander Alone
+SUBMCD,Geography
+DP02PR_0082E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In Puerto Rico Same Municipio
+DP02PR_0065PE, Educational Attainment Population 25 Years And Over Graduate Or Professional Degree
+DP05_0029E,Estimate Sex And Age Total Population 65 Years And Over
+DP03_0108E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed No Health Insurance Coverage
+DP02PR_0052PE, School Enrollment Population 3 Years And Over Enrolled In School
+DP02PR_0085E,Estimate Residence 1 Year Ago Population 1 Year And Over Elsewhere
+DP03_0105E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage
+DP04_0123PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 30.0 To 34.9 Percent
+DP02PR_0084E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In The United States
+DP02_0072PE, Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years
+DP02_0019PE, Relationship Population In Households Spouse
+DP03_0106E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage With Private Health Insurance
+DP03_0079PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $25 000 To $34 999
+DP03_0103E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force
+DP05_0024E,Estimate Sex And Age Total Population 65 Years And Over
+DP02_0041PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 20 To 34 Years Old
+DP02PR_0119PE, Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages Speak English Less Than Very Well
+DP02_0129E,Estimate Ancestry Total Population French (Except Basque)
+DP03_0104E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed
+DP05_0025E,Estimate Sex And Age Total Population 18 Years And Over
+DP03_0053PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $10 000 To $14 999
+DP05_0015PE, Sex And Age Total Population 65 To 74 Years
+DP02_0098PE, Year Of Entry Population Born Outside The United States Native Entered 2010 Or Later
+DP02_0128E,Estimate Ancestry Total Population English
+DP03_0101E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population Under 19 Years No Health Insurance Coverage
+DP02PR_0081E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In Puerto Rico
+DP02PR_0096PE, Year Of Entry Population Born Outside Puerto Rico
+DP05_0026E,Estimate Sex And Age Total Population 18 Years And Over Male
+DP05_0002PE, Sex And Age Total Population Male
+DP03_0102E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years
+DP02PR_0080E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S.
+DP02_0127E,Estimate Ancestry Total Population Dutch
+DP02_0108PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Latin America
+DP05_0027E,Estimate Sex And Age Total Population 18 Years And Over Female
+DP04_0034PE, Rooms Total Housing Units 7 Rooms
+DP03_0111E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage With Private Health Insurance
+DP05_0020E,Estimate Sex And Age Total Population 16 Years And Over
+DP02PR_0079E,Estimate Residence 1 Year Ago Population 1 Year And Over Same House
+DP02_0085E,Estimate Residence 1 Year Ago Population 1 Year And Over Abroad
+DP03_0112E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage With Public Coverage
+DP05_0021E,Estimate Sex And Age Total Population 18 Years And Over
+DP04_0141PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 30.0 To 34.9 Percent
+DP02PR_0078E,Estimate Residence 1 Year Ago Population 1 Year And Over
+DP02_0126PE, Ancestry Total Population Danish
+DP02_0084E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Different County Different State
+DP03_0097PE, Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage With Private Health Insurance
+DP05_0059PE, Race Total Population Two Or More Races White And Black Or African American
+DP02PR_0079PE, Residence 1 Year Ago Population 1 Year And Over Same House
+DP05_0022E,Estimate Sex And Age Total Population 21 Years And Over
+DP02_0113PE, Language Spoken At Home Population 5 Years And Over Language Other Than English Speak English Less Than Very Well
+DP02_0083E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Different County Same State
+DP03_0040PE, Industry Civilian Employed Population 16 Years And Over Finance And Insurance And Real Estate And Rental And Leasing
+DP04_0021PE, Year Structure Built Total Housing Units Built 1980 To 1989
+DP05_0046PE, Race Total Population One Race Asian Chinese
+DP02PR_0022PE, Relationship Population In Households Nonrelatives
+DP03_0110E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage
+DP05_0023E,Estimate Sex And Age Total Population 62 Years And Over
+DP02_0082E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Different County
+DP04_0078PE, Occupants Per Room Occupied Housing Units 1.01 To 1.50
+DP03_0071PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Supplemental Security Income Mean Supplemental Security Income (Dollars)
+DP02PR_0075E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years With A Disability
+DP02_0139PE, Ancestry Total Population Portuguese
+DP02_0081E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Same County
+DP02PR_0074E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years
+DP02_0080E,Estimate Residence 1 Year Ago Population 1 Year And Over Different House In The U.S.
+DP02PR_0142PE, Ancestry Total Population Scottish
+DP04_0052PE, Year Householder Moved Into Unit Occupied Housing Units Moved In 2010 To 2014
+DP03_0068E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Retirement Income
+DP02PR_0077E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over With A Disability
+DP04_0065PE, House Heating Fuel Occupied Housing Units Electricity
+DP02_0006PE, Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family
+DP03_0084PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $150 000 To $199 999
+DP03_0069E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Retirement Income Mean Retirement Income (Dollars)
+DP02PR_0066PE, Educational Attainment Population 25 Years And Over Percent High School Graduate Or Higher
+DP02PR_0076E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over
+DP03_0107PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage With Public Coverage
+DP05_0033PE, Race Total Population
+DP03_0066E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Social Security
+DP02PR_0124E,Estimate Ancestry Total Population Arab
+TRISUBREM,Geography
+DP02_0130E,Estimate Ancestry Total Population French Canadian
+DP05_0020PE, Sex And Age Total Population 16 Years And Over
+DP03_0005PE, Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force Unemployed
+DP02_0024PE, Marital Status Males 15 Years And Over
+DP03_0067E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Social Security Mean Social Security Income (Dollars)
+DP02PR_0004PE, Households By Type Total Households Family Households (Families) Married-Couple Family
+DP02PR_0123E,Estimate Ancestry Total Population American
+DP03_0125PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Families With Female Householder No Husband Present
+DP04_0096PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $1 000 To $1 499
+DP04_0041E,Estimate Bedrooms Total Housing Units 2 Bedrooms
+DP03_0064E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Earnings
+DP04_0119PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 10.0 To 14.9 Percent
+DP02PR_0126E,Estimate Ancestry Total Population Danish
+DP02_0144PE, Ancestry Total Population Subsaharan African
+DP04_0040E,Estimate Bedrooms Total Housing Units 1 Bedroom
+DP03_0065E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Earnings Mean Earnings (Dollars)
+DP02PR_0125E,Estimate Ancestry Total Population Czech
+DP02_0011PE, Households By Type Total Households Nonfamily Households Householder Living Alone
+DP02PR_0124PE, Ancestry Total Population Arab
+DP03_0018PE, Commuting To Work Workers 16 Years And Over
+DP05_0077PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino White Alone
+DP02_0090PE, Place Of Birth Total Population Native Born In United States Different State
+DP02PR_0120E,Estimate Language Spoken At Home Population 5 Years And Over Other Languages
+DP03_0062E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households Median Household Income (Dollars)
+DP03_0049PE, Class Of Worker Civilian Employed Population 16 Years And Over Self-Employed In Own Not Incorporated Business Workers
+DP02PR_0111PE, Language Spoken At Home Population 5 Years And Over English Only
+DP05_0064PE, Race Alone Or In Combination With One Or More Other Races Total Population White
+DP02_0089E,Estimate Place Of Birth Total Population Native Born In United States State Of Residence
+DP03_0063E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households Mean Household Income (Dollars)
+DP02PR_0048PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 5 Or More Years
+DP02_0088E,Estimate Place Of Birth Total Population Native Born In United States
+DP02_0037PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married)
+DP05_0051PE, Race Total Population One Race Asian Other Asian
+DP02PR_0035PE, Marital Status Females 15 Years And Over Divorced
+DP03_0060E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $150 000 To $199 999
+DP02PR_0122E,Estimate Ancestry Total Population
+DP02_0087E,Estimate Place Of Birth Total Population Native
+DP04_0083PE, Value Owner-Occupied Units $100 000 To $149 999
+DP02_0100PE, Year Of Entry Population Born Outside The United States Foreign Born
+DP03_0061E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $200 000 Or More
+DP02PR_0121E,Estimate Language Spoken At Home Population 5 Years And Over Other Languages Speak English Less Than Very Well
+DP04_0106PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $600 To $799
+DP02_0086E,Estimate Place Of Birth Total Population
+DP02PR_0095PE, U.S. Citizenship Status Foreign-Born Population Not A U.S. Citizen
+DP04_0035E,Estimate Rooms Total Housing Units 8 Rooms
+DP03_0070E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Supplemental Security Income
+DP04_0137PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) Less Than 15.0 Percent
+DP02_0114E,Estimate Language Spoken At Home Population 5 Years And Over Spanish
+DP03_0071E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Supplemental Security Income Mean Supplemental Security Income (Dollars)
+DP04_0034E,Estimate Rooms Total Housing Units 7 Rooms
+DP03_0036PE, Industry Civilian Employed Population 16 Years And Over Wholesale Trade
+DP02_0113E,Estimate Language Spoken At Home Population 5 Years And Over Language Other Than English Speak English Less Than Very Well
+DP04_0070PE, House Heating Fuel Occupied Housing Units Other Fuel
+DP04_0037E,Estimate Rooms Total Housing Units Median Rooms
+DP02_0042PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 35 To 50 Years Old
+DP02PR_0082PE, Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In Puerto Rico Same Municipio
+DP02_0112E,Estimate Language Spoken At Home Population 5 Years And Over Language Other Than English
+DP02PR_0105PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Asia
+DP04_0036E,Estimate Rooms Total Housing Units 9 Rooms Or More
+PLACE,Geography
+DP04_0017PE, Year Structure Built Total Housing Units Built 2014 Or Later
+DP02_0099PE, Year Of Entry Population Born Outside The United States Native Entered Before 2010
+DP02_0111E,Estimate Language Spoken At Home Population 5 Years And Over English Only
+DP02_0131PE, Ancestry Total Population German
+DP04_0031E,Estimate Rooms Total Housing Units 4 Rooms
+DP03_0112PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage With Public Coverage
+DP02_0068PE, Veteran Status Civilian Population 18 Years And Over
+DP02PR_0007E,Estimate Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family With Own Children Of The Householder Under 18 Years
+DP02_0110E,Estimate Language Spoken At Home Population 5 Years And Over
+DP04_0124PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 35.0 Percent Or More
+DP04_0030E,Estimate Rooms Total Housing Units 3 Rooms
+DP02PR_0029PE, Marital Status Males 15 Years And Over Divorced
+DP02PR_0006E,Estimate Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family
+DP02PR_0139E,Estimate Ancestry Total Population Portuguese
+DP02PR_0016PE, Households By Type Total Households Average Family Size
+DP04_0033E,Estimate Rooms Total Housing Units 6 Rooms
+DIVISION,Geography
+DP05_0029PE, Sex And Age Total Population 65 Years And Over
+DP04_0004PE, Housing Occupancy Total Housing Units Homeowner Vacancy Rate
+DP02PR_0009E,Estimate Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family With Own Children Of The Householder Under 18 Years
+DP03_0023PE, Commuting To Work Workers 16 Years And Over Other Means
+DP05_0082PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Some Other Race Alone
+DP04_0032E,Estimate Rooms Total Housing Units 5 Rooms
+DP02PR_0008E,Estimate Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family
+DP02PR_0149PE, Ancestry Total Population West Indian (Excluding Hispanic Origin Groups)
+DP02_0055PE, School Enrollment Population 3 Years And Over Enrolled In School Elementary School (Grades 1-8)
+DP02PR_0095E,Estimate U.S. Citizenship Status Foreign-Born Population Not A U.S. Citizen
+DP03_0119E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families
+DP02PR_0094E,Estimate U.S. Citizenship Status Foreign-Born Population Naturalized U.S. Citizen
+DP02PR_0140PE, Ancestry Total Population Russian
+DP02_0073PE, Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years With A Disability
+DP04_0035PE, Rooms Total Housing Units 8 Rooms
+DP04_0111PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Less Than 20.0 Percent
+DP02PR_0097E,Estimate Year Of Entry Population Born Outside Puerto Rico Native
+DP04_0048PE, Housing Tenure Occupied Housing Units Average Household Size Of Owner-Occupied Unit
+DP03_0117E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage With Public Coverage
+DP03_0067PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Social Security Mean Social Security Income (Dollars)
+DP02PR_0064PE, Educational Attainment Population 25 Years And Over Bachelor'S Degree
+DP02PR_0096E,Estimate Year Of Entry Population Born Outside Puerto Rico
+DP02_0119E,Estimate Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages Speak English Less Than Very Well
+DP05_0016PE, Sex And Age Total Population 75 To 84 Years
+DP03_0010PE, Employment Status Females 16 Years And Over
+DP03_0118E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force No Health Insurance Coverage
+DP02_0118E,Estimate Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages
+DP02PR_0091E,Estimate Place Of Birth Total Population Native Born In U.S. Island Areas Or Born Abroad Of American Parents
+DP03_0115E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage
+DP02PR_0051PE, Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Married
+DP04_0039E,Estimate Bedrooms Total Housing Units No Bedroom
+DP05_0036E,Estimate Race Total Population One Race
+DP03_0041PE, Industry Civilian Employed Population 16 Years And Over Professional Scientific And Management And Administrative And Waste Management Services
+DP04_0022PE, Year Structure Built Total Housing Units Built 1970 To 1979
+DP05_0003PE, Sex And Age Total Population Female
+DP02PR_0090E,Estimate Place Of Birth Total Population Native Born In Puerto Rico Or The United States In The United States
+DP02_0117E,Estimate Language Spoken At Home Population 5 Years And Over Other Indo-European Languages Speak English Less Than Very Well
+DP04_0038E,Estimate Bedrooms Total Housing Units
+DP05_0037E,Estimate Race Total Population One Race White
+DP02_0109PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Northern America
+DP04_0079PE, Occupants Per Room Occupied Housing Units 1.51 Or More
+DP03_0116E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage With Private Health Insurance
+DP03_0113E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed No Health Insurance Coverage
+DP02_0116E,Estimate Language Spoken At Home Population 5 Years And Over Other Indo-European Languages
+DP02PR_0093E,Estimate U.S. Citizenship Status Foreign-Born Population
+DP03_0130PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years
+DP05_0038E,Estimate Race Total Population One Race Black Or African American
+CSA,Geography
+DP02PR_0118PE, Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages
+DP02_0086PE, Place Of Birth Total Population
+DP02PR_0092E,Estimate Place Of Birth Total Population Foreign Born
+DP02_0115E,Estimate Language Spoken At Home Population 5 Years And Over Spanish Speak English Less Than Very Well
+DP03_0114E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force
+DP05_0039E,Estimate Race Total Population One Race American Indian And Alaska Native
+DP03_0054PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $15 000 To $24 999
+DP03_0123E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Married Couple Families With Related Children Of The Householder Under 18 Years
+DP05_0032E,Estimate Sex And Age Total Population 65 Years And Over Sex Ratio (Males Per 100 Females)
+DP02PR_0034PE, Marital Status Females 15 Years And Over Widowed
+DP02_0114PE, Language Spoken At Home Population 5 Years And Over Spanish
+DP02_0073E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years With A Disability
+DP03_0085PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $200 000 Or More
+DP05_0047PE, Race Total Population One Race Asian Filipino
+DP04_0066PE, House Heating Fuel Occupied Housing Units Fuel Oil Kerosene Etc.
+DP03_0124E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Married Couple Families With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only
+DP05_0033E,Estimate Race Total Population
+DP02_0072E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years
+DP02_0091PE, Place Of Birth Total Population Native Born In Puerto Rico U.S. Island Areas Or Born Abroad To American Parent(S)
+DP02PR_0130E,Estimate Ancestry Total Population French Canadian
+DP03_0121E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only
+DP05_0034E,Estimate Race Total Population One Race
+DP02_0071E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population With A Disability
+DP03_0122E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Married Couple Families
+DP04_0142PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 35.0 Percent Or More
+DP05_0035E,Estimate Race Total Population Two Or More Races
+DP02_0070E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population
+DP02_0038PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married) Per 1 000 Unmarried Women
+DP03_0098PE, Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage With Public Coverage
+DP02PR_0078PE, Residence 1 Year Ago Population 1 Year And Over
+DP02PR_0087E,Estimate Place Of Birth Total Population Native
+DP02_0060PE, Educational Attainment Population 25 Years And Over 9Th To 12Th Grade No Diploma
+DP02_0007PE, Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family With Own Children Of The Householder Under 18 Years
+DP02PR_0021PE, Relationship Population In Households Other Relatives
+DP03_0120E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families With Related Children Of The Householder Under 18 Years
+DP02PR_0086E,Estimate Place Of Birth Total Population
+DP03_0108PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed No Health Insurance Coverage
+DP03_0072PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Cash Public Assistance Income
+DP03_0019PE, Commuting To Work Workers 16 Years And Over Car Truck Or Van Drove Alone
+DP05_0034PE, Race Total Population One Race
+DP05_0030E,Estimate Sex And Age Total Population 65 Years And Over Male
+DP02PR_0089E,Estimate Place Of Birth Total Population Native Born In Puerto Rico Or The United States In Puerto Rico
+DP05_0021PE, Sex And Age Total Population 18 Years And Over
+DP05_0031E,Estimate Sex And Age Total Population 65 Years And Over Female
+DP02PR_0088E,Estimate Place Of Birth Total Population Native Born In Puerto Rico Or The United States
+DP02_0127PE, Ancestry Total Population Dutch
+DP02PR_0141PE, Ancestry Total Population Scotch-Irish
+DP04_0053PE, Year Householder Moved Into Unit Occupied Housing Units Moved In 2000 To 2009
+DP03_0078E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $15 000 To $24 999
+DP02PR_0003E,Estimate Households By Type Total Households Family Households (Families) With Own Children Of The Householder Under 18 Years
+DP02PR_0136E,Estimate Ancestry Total Population Lithuanian
+DP02PR_0136PE, Ancestry Total Population Lithuanian
+DP03_0079E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $25 000 To $34 999
+DP04_0107PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $800 To $999
+DP02PR_0002E,Estimate Households By Type Total Households Family Households (Families)
+DP02PR_0135E,Estimate Ancestry Total Population Italian
+DP02_0145PE, Ancestry Total Population Swedish
+DP02_0012PE, Households By Type Total Households Nonfamily Households Householder Living Alone 65 Years And Over
+DP05_0078PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Black Or African American Alone
+DP02_0132PE, Ancestry Total Population Greek
+DP03_0076E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Less Than $10 000
+DP03_0113PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed No Health Insurance Coverage
+DP02PR_0005E,Estimate Households By Type Total Households Family Households (Families) Married-Couple Family With Own Children Of The Householder Under 18 Years
+DP02PR_0138E,Estimate Ancestry Total Population Polish
+DP02_0069PE, Veteran Status Civilian Population 18 Years And Over Civilian Veterans
+DP04_0040PE, Bedrooms Total Housing Units 1 Bedroom
+DP03_0006PE, Employment Status Population 16 Years And Over In Labor Force Armed Forces
+DP02_0079E,Estimate Residence 1 Year Ago Population 1 Year And Over Same House
+DP05_0065PE, Race Alone Or In Combination With One Or More Other Races Total Population Black Or African American
+DP02PR_0003PE, Households By Type Total Households Family Households (Families) With Own Children Of The Householder Under 18 Years
+DP03_0077E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $10 000 To $14 999
+DP02PR_0004E,Estimate Households By Type Total Households Family Households (Families) Married-Couple Family
+DP02PR_0137E,Estimate Ancestry Total Population Norwegian
+DP04_0097PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $1 500 To $1 999
+DP02_0078E,Estimate Residence 1 Year Ago Population 1 Year And Over
+DP04_0071PE, House Heating Fuel Occupied Housing Units No Fuel Used
+DP03_0090PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Nonfamily Households Median Nonfamily Income (Dollars)
+DP02PR_0132E,Estimate Ancestry Total Population Greek
+DP03_0074E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Food Stamp/Snap Benefits In The Past 12 Months
+DP02_0077E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over With A Disability
+DP03_0075E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families
+DP02PR_0131E,Estimate Ancestry Total Population German
+DP02_0101PE, Year Of Entry Population Born Outside The United States Foreign Born Entered 2010 Or Later
+DP04_0018PE, Year Structure Built Total Housing Units Built 2010 To 2013
+DP02PR_0123PE, Ancestry Total Population American
+DP02_0076E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over
+DP03_0072E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Cash Public Assistance Income
+DP02PR_0001E,Estimate Households By Type Total Households
+DP02PR_0134E,Estimate Ancestry Total Population Irish
+DP02PR_0110PE, Language Spoken At Home Population 5 Years And Over
+DP02_0075E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years With A Disability
+DP04_0084PE, Value Owner-Occupied Units $150 000 To $199 999
+DP02_0025PE, Marital Status Males 15 Years And Over Never Married
+DP02PR_0047PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 3 Or 4 Years
+DP02PR_0133E,Estimate Ancestry Total Population Hungarian
+DP03_0073E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Cash Public Assistance Income Mean Cash Public Assistance Income (Dollars)
+DP03_0126PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Families With Female Householder No Husband Present With Related Children Of The Householder Under 18 Years
+DP02_0074E,Estimate Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years
+DP05_0052PE, Race Total Population One Race Native Hawaiian And Other Pacific Islander
+DP03_0082E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $75 000 To $99 999
+DP02PR_0019PE, Relationship Population In Households Spouse
+DP04_0005PE, Housing Occupancy Total Housing Units Rental Vacancy Rate
+DP02_0043PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years
+DP02_0102E,Estimate Year Of Entry Population Born Outside The United States Foreign Born Entered Before 2010
+DP03_0083E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $100 000 To $149 999
+DP03_0059PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $100 000 To $149 999
+DP02PR_0072PE, Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years
+DP05_0074PE, Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Cuban
+DP02_0101E,Estimate Year Of Entry Population Born Outside The United States Foreign Born Entered 2010 Or Later
+DP04_0138PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 15.0 To 19.9 Percent
+DP04_0110E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed)
+DP03_0080E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $35 000 To $49 999
+DP03_0002PE, Employment Status Population 16 Years And Over In Labor Force
+DP05_0008PE, Sex And Age Total Population 15 To 19 Years
+DP02PR_0139PE, Ancestry Total Population Portuguese
+DP02_0100E,Estimate Year Of Entry Population Born Outside The United States Foreign Born
+CD,Geography
+DP05_0061PE, Race Total Population Two Or More Races White And Asian
+DP03_0081E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $50 000 To $74 999
+DP02_0030PE, Marital Status Females 15 Years And Over
+DP04_0112PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 20.0 To 24.9 Percent
+DP04_0067E,Estimate House Heating Fuel Occupied Housing Units Coal Or Coke
+DP03_0135PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over 65 Years And Over
+DP05_0008E,Estimate Sex And Age Total Population 15 To 19 Years
+DP02PR_0019E,Estimate Relationship Population In Households Spouse
+DP04_0049PE, Housing Tenure Occupied Housing Units Average Household Size Of Renter-Occupied Unit
+DP02PR_0006PE, Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family
+DP04_0066E,Estimate House Heating Fuel Occupied Housing Units Fuel Oil Kerosene Etc.
+DP05_0009E,Estimate Sex And Age Total Population 20 To 24 Years
+DP02PR_0018E,Estimate Relationship Population In Households Householder
+NECTA,Geography
+CNECTA,Geography
+DP02_0056PE, School Enrollment Population 3 Years And Over Enrolled In School High School (Grades 9-12)
+STATE,Geography
+DP04_0069E,Estimate House Heating Fuel Occupied Housing Units Solar Energy
+DP02_0059E,Estimate Educational Attainment Population 25 Years And Over Less Than 9Th Grade
+DP03_0046PE, Class Of Worker Civilian Employed Population 16 Years And Over
+DP03_0122PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Married Couple Families
+DP04_0068E,Estimate House Heating Fuel Occupied Housing Units Wood
+DP04_0125PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Not Computed
+DP02PR_0126PE, Ancestry Total Population Danish
+DP02_0058E,Estimate Educational Attainment Population 25 Years And Over
+DP04_0116E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Not Computed
+DP05_0004E,Estimate Sex And Age Total Population Sex Ratio (Males Per 100 Females)
+DP03_0020PE, Commuting To Work Workers 16 Years And Over Car Truck Or Van Carpooled
+DP02_0109E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Northern America
+DP04_0115E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 35.0 Percent Or More
+DP05_0005E,Estimate Sex And Age Total Population Under 5 Years
+DP02PR_0098PE, Year Of Entry Population Born Outside Puerto Rico Native Entered 2010 Or Later
+DP02_0108E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Latin America
+DP05_0006E,Estimate Sex And Age Total Population 5 To 9 Years
+DP04_0118E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Less Than 10.0 Percent
+DP02_0008PE, Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family
+DP02_0061PE, Educational Attainment Population 25 Years And Over High School Graduate (Includes Equivalency)
+DP03_0129E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years
+DP02_0107E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Oceania
+DP02PR_0041PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 20 To 34 Years Old
+DP05_0007E,Estimate Sex And Age Total Population 10 To 14 Years
+DP05_0039PE, Race Total Population One Race American Indian And Alaska Native
+DP04_0117E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed)
+DP03_0033PE, Industry Civilian Employed Population 16 Years And Over Agriculture Forestry Fishing And Hunting And Mining
+DP04_0036PE, Rooms Total Housing Units 9 Rooms Or More
+DP02_0106E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Africa
+DP02_0150PE, Computers And Internet Use Total Households
+PRINCITY,Geography
+DP04_0112E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 20.0 To 24.9 Percent
+DP03_0064PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Earnings
+DP02_0087PE, Place Of Birth Total Population Native
+DP05_0026PE, Sex And Age Total Population 18 Years And Over Male
+DP03_0127E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Families With Female Householder No Husband Present With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only
+DP02_0105E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Asia
+DP02PR_0108PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Latin America
+DP05_0001E,Estimate Sex And Age Total Population
+DP04_0143PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) Not Computed
+DP04_0111E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Less Than 20.0 Percent
+DP04_0010PE, Units In Structure Total Housing Units 3 Or 4 Units
+DP03_0128E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People
+DP02_0104E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Europe
+DP03_0125E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Families With Female Householder No Husband Present
+DP04_0114E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 30.0 To 34.9 Percent
+DP05_0002E,Estimate Sex And Age Total Population Male
+DP04_0023PE, Year Structure Built Total Housing Units Built 1960 To 1969
+DP03_0126E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Families With Female Householder No Husband Present With Related Children Of The Householder Under 18 Years
+DP02PR_0085PE, Residence 1 Year Ago Population 1 Year And Over Elsewhere
+DP05_0003E,Estimate Sex And Age Total Population Female
+DP04_0113E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 25.0 To 29.9 Percent
+DP02_0074PE, Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years
+DP02_0103E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea
+DP03_0077PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $10 000 To $14 999
+DP03_0135E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over 65 Years And Over
+DP03_0002E,Estimate Employment Status Population 16 Years And Over In Labor Force
+DP02_0092PE, Place Of Birth Total Population Foreign Born
+DP02PR_0011PE, Households By Type Total Households Nonfamily Households Householder Living Alone
+DP02PR_0140E,Estimate Ancestry Total Population Russian
+DP03_0118PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force No Health Insurance Coverage
+DP02_0061E,Estimate Educational Attainment Population 25 Years And Over High School Graduate (Includes Equivalency)
+DP03_0003E,Estimate Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force
+DP03_0136E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level People In Families
+DP02PR_0144PE, Ancestry Total Population Subsaharan African
+DP02_0060E,Estimate Educational Attainment Population 25 Years And Over 9Th To 12Th Grade No Diploma
+DP03_0051PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households
+DP04_0054PE, Year Householder Moved Into Unit Occupied Housing Units Moved In 1990 To 1999
+DP02_0039PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 50 Years Old
+DP05_0013PE, Sex And Age Total Population 55 To 59 Years
+DP04_0130PE, Gross Rent Occupied Units Paying Rent $1 500 To $1 999
+DP03_0133E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over
+DP02PR_0142E,Estimate Ancestry Total Population Scottish
+DP02PR_0131PE, Ancestry Total Population German
+DP04_0067PE, House Heating Fuel Occupied Housing Units Coal Or Coke
+DP03_0134E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over 18 To 64 Years
+DP02PR_0068PE, Veteran Status Civilian Population 18 Years And Over
+DP03_0001E,Estimate Employment Status Population 16 Years And Over
+DP02PR_0141E,Estimate Ancestry Total Population Scotch-Irish
+DP02_0102PE, Year Of Entry Population Born Outside The United States Foreign Born Entered Before 2010
+DP03_0105PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage
+DP03_0131E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years Related Children Of The Householder Under 5 Years
+DP02PR_0055PE, School Enrollment Population 3 Years And Over Enrolled In School Elementary School (Grades 1-8)
+DP02PR_0099E,Estimate Year Of Entry Population Born Outside Puerto Rico Native Entered Before 2010
+DP05_0088E,Estimate Citizen Voting Age Population Citizen 18 And Over Population Male
+UA,Geography
+DP04_0108E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $1 000 Or More
+DP04_0041PE, Bedrooms Total Housing Units 2 Bedrooms
+DP03_0132E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years Related Children Of The Householder 5 To 17 Years
+DP02PR_0098E,Estimate Year Of Entry Population Born Outside Puerto Rico Native Entered 2010 Or Later
+DP02_0128PE, Ancestry Total Population English
+DP05_0089E,Estimate Citizen Voting Age Population Citizen 18 And Over Population Female
+DP04_0107E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $800 To $999
+DP03_0095PE, Health Insurance Coverage Civilian Noninstitutionalized Population
+DP05_0057PE, Race Total Population One Race Some Other Race
+DP04_0098PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $2 000 To $2 499
+DP02_0115PE, Language Spoken At Home Population 5 Years And Over Spanish Speak English Less Than Very Well
+DP05_0044PE, Race Total Population One Race Asian
+DP03_0130E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years
+DP04_0109E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage Median (Dollars)
+DP04_0063E,Estimate House Heating Fuel Occupied Housing Units Utility Gas
+DP02_0133PE, Ancestry Total Population Hungarian
+DP05_0084E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races Two Races Including Some Other Race
+DP02PR_0015E,Estimate Households By Type Total Households Average Household Size
+DP02PR_0148E,Estimate Ancestry Total Population Welsh
+DP02PR_0113PE, Language Spoken At Home Population 5 Years And Over Language Other Than English Speak English Less Than Very Well
+DP02_0069E,Estimate Veteran Status Civilian Population 18 Years And Over Civilian Veterans
+DP04_0085PE, Value Owner-Occupied Units $200 000 To $299 999
+DP04_0062E,Estimate House Heating Fuel Occupied Housing Units
+DP05_0085E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races Two Races Excluding Some Other Race And Three Or More Races
+DP02PR_0014E,Estimate Households By Type Total Households Households With One Or More People 65 Years And Over
+DP02PR_0147E,Estimate Ancestry Total Population Ukrainian
+DP02_0068E,Estimate Veteran Status Civilian Population 18 Years And Over
+DP03_0088E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Per Capita Income (Dollars)
+DP05_0086E,Estimate Total Housing Units
+DP02PR_0037PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married)
+DP04_0065E,Estimate House Heating Fuel Occupied Housing Units Electricity
+DP02PR_0017E,Estimate Relationship Population In Households
+DP03_0136PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level People In Families
+DP03_0029PE, Occupation Civilian Employed Population 16 Years And Over Sales And Office Occupations
+DP05_0088PE, Citizen Voting Age Population Citizen 18 And Over Population Male
+DP02_0067E,Estimate Educational Attainment Population 25 Years And Over Percent Bachelor'S Degree Or Higher
+DP04_0064E,Estimate House Heating Fuel Occupied Housing Units Bottled Tank Or Lp Gas
+DP03_0082PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $75 000 To $99 999
+DP03_0089E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Nonfamily Households
+DP05_0087E,Estimate Citizen Voting Age Population Citizen 18 And Over Population
+DP04_0108PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $1 000 Or More
+DP02PR_0016E,Estimate Households By Type Total Households Average Family Size
+DP02PR_0149E,Estimate Ancestry Total Population West Indian (Excluding Hispanic Origin Groups)
+DP02_0057PE, School Enrollment Population 3 Years And Over Enrolled In School College Or Graduate School
+DP02_0066E,Estimate Educational Attainment Population 25 Years And Over Percent High School Graduate Or Higher
+DP05_0031PE, Sex And Age Total Population 65 Years And Over Female
+DP02PR_0090PE, Place Of Birth Total Population Native Born In Puerto Rico Or The United States In The United States
+DP05_0080E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Asian Alone
+DP03_0086E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Median Family Income (Dollars)
+DP02PR_0011E,Estimate Households By Type Total Households Nonfamily Households Householder Living Alone
+DP02PR_0144E,Estimate Ancestry Total Population Subsaharan African
+DP04_0139PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 20.0 To 24.9 Percent
+NATION,Geography
+DP02_0065E,Estimate Educational Attainment Population 25 Years And Over Graduate Or Professional Degree
+DP02_0026PE, Marital Status Males 15 Years And Over Now Married Except Separated
+DP03_0003PE, Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force
+DP05_0081E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Native Hawaiian And Other Pacific Islander Alone
+DP03_0087E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Mean Family Income (Dollars)
+DP02PR_0010E,Estimate Households By Type Total Households Nonfamily Households
+DP02PR_0143E,Estimate Ancestry Total Population Slovak
+DP02PR_0100PE, Year Of Entry Population Born Outside Puerto Rico Foreign Born
+DP02_0064E,Estimate Educational Attainment Population 25 Years And Over Bachelor'S Degree
+DP04_0061E,Estimate Vehicles Available Occupied Housing Units 3 Or More Vehicles Available
+DP05_0082E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Some Other Race Alone
+DP04_0072PE, Selected Characteristics Occupied Housing Units
+DP03_0084E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $150 000 To $199 999
+DP02PR_0013E,Estimate Households By Type Total Households Households With One Or More People Under 18 Years
+DP02PR_0146E,Estimate Ancestry Total Population Swiss
+DP02_0063E,Estimate Educational Attainment Population 25 Years And Over Associate'S Degree
+DP05_0083E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races
+DP04_0060E,Estimate Vehicles Available Occupied Housing Units 2 Vehicles Available
+DP02PR_0024PE, Marital Status Males 15 Years And Over
+DP03_0085E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $200 000 Or More
+DP02PR_0012E,Estimate Households By Type Total Households Nonfamily Households Householder Living Alone 65 Years And Over
+DP02PR_0145E,Estimate Ancestry Total Population Swedish
+DP02_0146PE, Ancestry Total Population Swiss
+DP02_0062E,Estimate Educational Attainment Population 25 Years And Over Some College No Degree
+DP04_0019PE, Year Structure Built Total Housing Units Built 2000 To 2009
+DP05_0075PE, Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Other Hispanic Or Latino
+DP03_0016PE, Employment Status Own Children Of The Householder 6 To 17 Years
+DP02_0013PE, Households By Type Total Households Households With One Or More People Under 18 Years
+DP03_0110PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage
+DP03_0094E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Median Earnings For Female Full-Time Year-Round Workers (Dollars)
+DP04_0059E,Estimate Vehicles Available Occupied Housing Units 1 Vehicle Available
+DP03_0047PE, Class Of Worker Civilian Employed Population 16 Years And Over Private Wage And Salary Workers
+DP05_0009PE, Sex And Age Total Population 20 To 24 Years
+DP05_0062PE, Race Total Population Two Or More Races Black Or African American And American Indian And Alaska Native
+DP02PR_0084PE, Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In The United States
+DP04_0058E,Estimate Vehicles Available Occupied Housing Units No Vehicles Available
+DP03_0095E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population
+DP04_0126PE, Gross Rent Occupied Units Paying Rent
+DP02_0031PE, Marital Status Females 15 Years And Over Never Married
+DP02_0151PE, Computers And Internet Use Total Households With A Computer
+DP02PR_0018PE, Relationship Population In Households Householder
+DP03_0092E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Median Earnings For Workers (Dollars)
+DP04_0006PE, Units In Structure Total Housing Units
+DP02_0088PE, Place Of Birth Total Population Native Born In United States
+DP03_0093E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Median Earnings For Male Full-Time Year-Round Workers (Dollars)
+DP02PR_0071PE, Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population With A Disability
+DP02_0049E,Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years
+DP04_0090PE, Mortgage Status Owner-Occupied Units
+DP03_0090E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Nonfamily Households Median Nonfamily Income (Dollars)
+DP04_0055E,Estimate Year Householder Moved Into Unit Occupied Housing Units Moved In 1980 To 1989
+DP02PR_0138PE, Ancestry Total Population Polish
+DP02_0120PE, Language Spoken At Home Population 5 Years And Over Other Languages
+DP03_0123PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Married Couple Families With Related Children Of The Householder Under 18 Years
+DP04_0054E,Estimate Year Householder Moved Into Unit Occupied Housing Units Moved In 1990 To 1999
+DP03_0091E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Nonfamily Households Mean Nonfamily Income (Dollars)
+DP04_0037PE, Rooms Total Housing Units Median Rooms
+DP02_0048E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 5 Or More Years
+DP03_0034PE, Industry Civilian Employed Population 16 Years And Over Construction
+DP04_0113PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 25.0 To 29.9 Percent
+DP04_0057E,Estimate Vehicles Available Occupied Housing Units
+DP02_0044PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Grandparents Responsible For Grandchildren
+DP02_0047E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 3 Or 4 Years
+DP02PR_0005PE, Households By Type Total Households Family Households (Families) Married-Couple Family With Own Children Of The Householder Under 18 Years
+DP04_0056E,Estimate Year Householder Moved Into Unit Occupied Housing Units Moved In 1979 And Earlier
+SDSEC,Geography
+DP02_0046E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 1 Or 2 Years
+DP02PR_0053PE, School Enrollment Population 3 Years And Over Enrolled In School Nursery School Preschool
+DP04_0104E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $250 To $399
+DP05_0016E,Estimate Sex And Age Total Population 75 To 84 Years
+DP02_0009PE, Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family With Own Children Of The Householder Under 18 Years
+DP02_0062PE, Educational Attainment Population 25 Years And Over Some College No Degree
+DP04_0024PE, Year Structure Built Total Housing Units Built 1950 To 1959
+DP04_0103E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage Less Than $250
+DP05_0017E,Estimate Sex And Age Total Population 85 Years And Over
+DP03_0078PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $15 000 To $24 999
+DP05_0018E,Estimate Sex And Age Total Population Median Age (Years)
+DP05_0027PE, Sex And Age Total Population 18 Years And Over Female
+DP04_0106E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $600 To $799
+DP03_0021PE, Commuting To Work Workers 16 Years And Over Public Transportation (Excluding Taxicab)
+DP03_0008E,Estimate Employment Status Civilian Labor Force
+DP04_0100PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $3 000 Or More
+DP05_0080PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Asian Alone
+DP04_0105E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $400 To $599
+DP02_0129PE, Ancestry Total Population French (Except Basque)
+DP05_0019E,Estimate Sex And Age Total Population Under 18 Years
+DP03_0009E,Estimate Employment Status Civilian Labor Force Unemployment Rate
+DP04_0131PE, Gross Rent Occupied Units Paying Rent $2 000 To $2 499
+DP02PR_0097PE, Year Of Entry Population Born Outside Puerto Rico Native
+DP05_0012E,Estimate Sex And Age Total Population 45 To 54 Years
+DP04_0100E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $3 000 Or More
+DP04_0068PE, House Heating Fuel Occupied Housing Units Wood
+DP03_0006E,Estimate Employment Status Population 16 Years And Over In Labor Force Armed Forces
+DP02PR_0040PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 19 Years Old
+DP05_0013E,Estimate Sex And Age Total Population 55 To 59 Years
+DP03_0007E,Estimate Employment Status Population 16 Years And Over Not In Labor Force
+DP02_0075PE, Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years With A Disability
+DP03_0137E,Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Unrelated Individuals 15 Years And Over
+DP03_0004E,Estimate Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force Employed
+DP05_0014E,Estimate Sex And Age Total Population 60 To 64 Years
+DP04_0102E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage
+DP03_0065PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Earnings Mean Earnings (Dollars)
+DP03_0005E,Estimate Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force Unemployed
+DP02PR_0107PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Oceania
+DP04_0101E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage Median (Dollars)
+DP05_0015E,Estimate Sex And Age Total Population 65 To 74 Years
+DP04_0011PE, Units In Structure Total Housing Units 5 To 9 Units
+DP05_0014PE, Sex And Age Total Population 60 To 64 Years
+DP03_0014E,Estimate Employment Status Own Children Of The Householder Under 6 Years
+DP02PR_0152E,Estimate Computers And Internet Use Total Households With A Broadband Internet Subscription
+DP05_0001PE, Sex And Age Total Population
+DP03_0015E,Estimate Employment Status Own Children Of The Householder Under 6 Years All Parents In Family In Labor Force
+DP02PR_0151E,Estimate Computers And Internet Use Total Households With A Computer
+DP02_0080PE, Residence 1 Year Ago Population 1 Year And Over Different House In The U.S.
+DP02PR_0023PE, Relationship Population In Households Nonrelatives Unmarried Partner
+DP03_0106PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage With Private Health Insurance
+DP02_0103PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea
+DP02PR_0010PE, Households By Type Total Households Nonfamily Households
+DP05_0010E,Estimate Sex And Age Total Population 25 To 34 Years
+DP03_0012E,Estimate Employment Status Females 16 Years And Over In Labor Force Civilian Labor Force
+DP02PR_0021E,Estimate Relationship Population In Households Other Relatives
+DP02_0027PE, Marital Status Males 15 Years And Over Separated
+DP03_0013E,Estimate Employment Status Females 16 Years And Over In Labor Force Civilian Labor Force Employed
+DP02PR_0020E,Estimate Relationship Population In Households Child
+DP05_0011E,Estimate Sex And Age Total Population 35 To 44 Years
+DP02PR_0143PE, Ancestry Total Population Slovak
+DP03_0052PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households Less Than $10 000
+DP05_0058PE, Race Total Population Two Or More Races
+DP04_0055PE, Year Householder Moved Into Unit Occupied Housing Units Moved In 1980 To 1989
+DP03_0010E,Estimate Employment Status Females 16 Years And Over
+DP02_0116PE, Language Spoken At Home Population 5 Years And Over Other Indo-European Languages
+DP02PR_0130PE, Ancestry Total Population French Canadian
+DP03_0083PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $100 000 To $149 999
+DP05_0045PE, Race Total Population One Race Asian Asian Indian
+DP02PR_0067PE, Educational Attainment Population 25 Years And Over Percent Bachelor'S Degree Or Higher
+DP03_0011E,Estimate Employment Status Females 16 Years And Over In Labor Force
+DP04_0109PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage Median (Dollars)
+DP02PR_0054PE, School Enrollment Population 3 Years And Over Enrolled In School Kindergarten
+COUSUB,Geography
+DP02PR_0150E,Estimate Computers And Internet Use Total Households
+DP03_0119PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families
+DP04_0042PE, Bedrooms Total Housing Units 3 Bedrooms
+DP04_0099PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $2 500 To $2 999
+DP03_0096PE, Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage
+DP02_0093PE, U.S. Citizenship Status Foreign-Born Population
+DP04_0051E,Estimate Year Householder Moved Into Unit Occupied Housing Units Moved In 2015 Or Later
+DP03_0137PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Unrelated Individuals 15 Years And Over
+DP02PR_0027E,Estimate Marital Status Males 15 Years And Over Separated
+DP02_0001PE, Households By Type Total Households
+DP05_0089PE, Citizen Voting Age Population Citizen 18 And Over Population Female
+DP02_0057E,Estimate School Enrollment Population 3 Years And Over Enrolled In School College Or Graduate School
+DP04_0050E,Estimate Year Householder Moved Into Unit Occupied Housing Units
+DP02PR_0026E,Estimate Marital Status Males 15 Years And Over Now Married Except Separated
+DP02_0058PE, Educational Attainment Population 25 Years And Over
+DP02PR_0125PE, Ancestry Total Population Czech
+DP05_0032PE, Sex And Age Total Population 65 Years And Over Sex Ratio (Males Per 100 Females)
+DP04_0073PE, Selected Characteristics Occupied Housing Units Lacking Complete Plumbing Facilities
+DP03_0017PE, Employment Status Own Children Of The Householder 6 To 17 Years All Parents In Family In Labor Force
+DP02_0056E,Estimate School Enrollment Population 3 Years And Over Enrolled In School High School (Grades 9-12)
+DP04_0053E,Estimate Year Householder Moved Into Unit Occupied Housing Units Moved In 2000 To 2009
+DP03_0070PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Supplemental Security Income
+DP02PR_0029E,Estimate Marital Status Males 15 Years And Over Divorced
+DP02PR_0112PE, Language Spoken At Home Population 5 Years And Over Language Other Than English
+DP02_0055E,Estimate School Enrollment Population 3 Years And Over Enrolled In School Elementary School (Grades 1-8)
+DP04_0086PE, Value Owner-Occupied Units $300 000 To $499 999
+DP04_0052E,Estimate Year Householder Moved Into Unit Occupied Housing Units Moved In 2010 To 2014
+DP02_0121PE, Language Spoken At Home Population 5 Years And Over Other Languages Speak English Less Than Very Well
+DP02PR_0049PE, Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years
+DP03_0124PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Married Couple Families With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only
+DP02PR_0028E,Estimate Marital Status Males 15 Years And Over Widowed
+DP02_0054E,Estimate School Enrollment Population 3 Years And Over Enrolled In School Kindergarten
+ZCTA,Geography
+DP03_0098E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage With Public Coverage
+DP02PR_0036PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months
+DP02PR_0023E,Estimate Relationship Population In Households Nonrelatives Unmarried Partner
+DP04_0007PE, Units In Structure Total Housing Units 1-Unit Detached
+DP02_0053E,Estimate School Enrollment Population 3 Years And Over Enrolled In School Nursery School Preschool
+DP03_0099E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population No Health Insurance Coverage
+DP02PR_0022E,Estimate Relationship Population In Households Nonrelatives
+DP02_0147PE, Ancestry Total Population Ukrainian
+DP02_0052E,Estimate School Enrollment Population 3 Years And Over Enrolled In School
+DP05_0076PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino
+DP02_0014PE, Households By Type Total Households Households With One Or More People 65 Years And Over
+DP03_0096E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage
+DP02PR_0025E,Estimate Marital Status Males 15 Years And Over Never Married
+DP02_0134PE, Ancestry Total Population Irish
+DP02_0051E,Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Married
+DP05_0063PE, Race Alone Or In Combination With One Or More Other Races Total Population
+DP03_0004PE, Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force Employed
+DP04_0060PE, Vehicles Available Occupied Housing Units 2 Vehicles Available
+DP03_0097E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage With Private Health Insurance
+DP02PR_0024E,Estimate Marital Status Males 15 Years And Over
+DP02_0050E,Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Female
+DP03_0133PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over
+DP02_0152PE, Computers And Internet Use Total Households With A Broadband Internet Subscription
+DP04_0114PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 30.0 To 34.9 Percent
+DP04_0132E,Estimate Gross Rent Occupied Units Paying Rent $2 500 To $2 999
+DP05_0085PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races Two Races Excluding Some Other Race And Three Or More Races
+DP02_0089PE, Place Of Birth Total Population Native Born In United States State Of Residence
+SDELM,Geography
+DP02PR_0008PE, Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family
+DP04_0131E,Estimate Gross Rent Occupied Units Paying Rent $2 000 To $2 499
+DP03_0013PE, Employment Status Females 16 Years And Over In Labor Force Civilian Labor Force Employed
+DP05_0072PE, Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Mexican
+DP02_0039E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 50 Years Old
+DP04_0134E,Estimate Gross Rent Occupied Units Paying Rent Median (Dollars)
+DP04_0001E,Estimate Housing Occupancy Total Housing Units
+DP03_0120PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families With Related Children Of The Householder Under 18 Years
+DP02_0038E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married) Per 1 000 Unmarried Women
+DP04_0133E,Estimate Gross Rent Occupied Units Paying Rent $3 000 Or More
+DP04_0127PE, Gross Rent Occupied Units Paying Rent Less Than $500
+DP02PR_0128PE, Ancestry Total Population English
+DP02_0076PE, Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over
+DP02_0045PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren Less Than 1 Year
+DP02PR_0115PE, Language Spoken At Home Population 5 Years And Over Spanish Speak English Less Than Very Well
+DP02_0037E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married)
+DP04_0101PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage Median (Dollars)
+DP05_0019PE, Sex And Age Total Population Under 18 Years
+DP02_0036E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months
+DP03_0057PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $50 000 To $74 999
+DP04_0091PE, Mortgage Status Owner-Occupied Units Housing Units With A Mortgage
+DP04_0130E,Estimate Gross Rent Occupied Units Paying Rent $1 500 To $1 999
+DP02PR_0039PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 50 Years Old
+DP05_0006PE, Sex And Age Total Population 5 To 9 Years
+DP02_0035E,Estimate Marital Status Females 15 Years And Over Divorced
+DP04_0038PE, Bedrooms Total Housing Units
+DP02_0032PE, Marital Status Females 15 Years And Over Now Married Except Separated
+DP02PR_0092PE, Place Of Birth Total Population Foreign Born
+DP02_0034E,Estimate Marital Status Females 15 Years And Over Widowed
+DP02PR_0030PE, Marital Status Females 15 Years And Over
+DP04_0007E,Estimate Units In Structure Total Housing Units 1-Unit Detached
+DP04_0006E,Estimate Units In Structure Total Housing Units
+DP04_0139E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 20.0 To 24.9 Percent
+DP02_0050PE, Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Female
+DP04_0012PE, Units In Structure Total Housing Units 10 To 19 Units
+DP02_0117PE, Language Spoken At Home Population 5 Years And Over Other Indo-European Languages Speak English Less Than Very Well
+DP02PR_0150PE, Computers And Internet Use Total Households
+DP04_0009E,Estimate Units In Structure Total Housing Units 2 Units
+DP03_0044PE, Industry Civilian Employed Population 16 Years And Over Other Services Except Public Administration
+DP04_0025PE, Year Structure Built Total Housing Units Built 1940 To 1949
+DP02PR_0087PE, Place Of Birth Total Population Native
+DP04_0008E,Estimate Units In Structure Total Housing Units 1-Unit Attached
+DP02PR_0074PE, Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years
+DP04_0136E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed)
+DP04_0003E,Estimate Housing Occupancy Total Housing Units Vacant Housing Units
+DP03_0018E,Estimate Commuting To Work Workers 16 Years And Over
+DP04_0135E,Estimate Gross Rent Occupied Units Paying Rent No Rent Paid
+DP04_0002E,Estimate Housing Occupancy Total Housing Units Occupied Housing Units
+DP04_0056PE, Year Householder Moved Into Unit Occupied Housing Units Moved In 1979 And Earlier
+DP03_0019E,Estimate Commuting To Work Workers 16 Years And Over Car Truck Or Van Drove Alone
+DP03_0016E,Estimate Employment Status Own Children Of The Householder 6 To 17 Years
+DP04_0132PE, Gross Rent Occupied Units Paying Rent $2 500 To $2 999
+DP04_0138E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 15.0 To 19.9 Percent
+DP04_0005E,Estimate Housing Occupancy Total Housing Units Rental Vacancy Rate
+DP02PR_0061PE, Educational Attainment Population 25 Years And Over High School Graduate (Includes Equivalency)
+DP02_0063PE, Educational Attainment Population 25 Years And Over Associate'S Degree
+DP04_0069PE, House Heating Fuel Occupied Housing Units Solar Energy
+DP03_0088PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Per Capita Income (Dollars)
+DP04_0137E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) Less Than 15.0 Percent
+DP04_0004E,Estimate Housing Occupancy Total Housing Units Homeowner Vacancy Rate
+DP03_0031PE, Occupation Civilian Employed Population 16 Years And Over Production Transportation And Material Moving Occupations
+DP05_0037PE, Race Total Population One Race White
+DP03_0017E,Estimate Employment Status Own Children Of The Householder 6 To 17 Years All Parents In Family In Labor Force
+DP02PR_0057PE, School Enrollment Population 3 Years And Over Enrolled In School College Or Graduate School
+DP03_0026E,Estimate Occupation Civilian Employed Population 16 Years And Over
+DP02PR_0031E,Estimate Marital Status Females 15 Years And Over Never Married
+DP05_0068E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population Native Hawaiian And Other Pacific Islander
+DP03_0062PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households Median Household Income (Dollars)
+DP03_0009PE, Employment Status Civilian Labor Force Unemployment Rate
+DP04_0043PE, Bedrooms Total Housing Units 4 Bedrooms
+DP02_0028PE, Marital Status Males 15 Years And Over Widowed
+DP05_0024PE, Sex And Age Total Population 65 Years And Over
+DP03_0027E,Estimate Occupation Civilian Employed Population 16 Years And Over Management Business Science And Arts Occupations
+DP02PR_0030E,Estimate Marital Status Females 15 Years And Over
+DP05_0069E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population Some Other Race
+DP03_0129PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years
+DP03_0024E,Estimate Commuting To Work Workers 16 Years And Over Worked At Home
+DP04_0081E,Estimate Value Owner-Occupied Units Less Than $50 000
+DP02PR_0033E,Estimate Marital Status Females 15 Years And Over Separated
+DP03_0025E,Estimate Commuting To Work Workers 16 Years And Over Mean Travel Time To Work (Minutes)
+DP04_0080E,Estimate Value Owner-Occupied Units
+DP02PR_0032E,Estimate Marital Status Females 15 Years And Over Now Married Except Separated
+METDIV,Geography
+DP02_0148PE, Ancestry Total Population Welsh
+DP02PR_0120PE, Language Spoken At Home Population 5 Years And Over Other Languages
+DP03_0075PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families
+DP02_0015PE, Households By Type Total Households Average Household Size
+DP05_0064E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population White
+DP03_0022E,Estimate Commuting To Work Workers 16 Years And Over Walked
+DP05_0068PE, Race Alone Or In Combination With One Or More Other Races Total Population Native Hawaiian And Other Pacific Islander
+DP04_0087PE, Value Owner-Occupied Units $500 000 To $999 999
+DP05_0065E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population Black Or African American
+DP03_0023E,Estimate Commuting To Work Workers 16 Years And Over Other Means
+DP02PR_0044PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Grandparents Responsible For Grandchildren
+DP05_0011PE, Sex And Age Total Population 35 To 44 Years
+DP02_0094PE, U.S. Citizenship Status Foreign-Born Population Naturalized U.S. Citizen
+DP02PR_0031PE, Marital Status Females 15 Years And Over Never Married
+DP03_0020E,Estimate Commuting To Work Workers 16 Years And Over Car Truck Or Van Carpooled
+DP05_0066E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population American Indian And Alaska Native
+DP03_0021E,Estimate Commuting To Work Workers 16 Years And Over Public Transportation (Excluding Taxicab)
+DP02_0081PE, Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Same County
+DP05_0067E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population Asian
+DP02_0104PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Europe
+DP04_0030PE, Rooms Total Housing Units 3 Rooms
+DP05_0060E,Estimate Race Total Population Two Or More Races White And American Indian And Alaska Native
+DP02PR_0039E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 50 Years Old
+DP04_0087E,Estimate Value Owner-Occupied Units $500 000 To $999 999
+DP02_0045E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren Less Than 1 Year
+DP04_0086E,Estimate Value Owner-Occupied Units $300 000 To $499 999
+DP05_0061E,Estimate Race Total Population Two Or More Races White And Asian
+DP02_0122PE, Ancestry Total Population
+DP04_0061PE, Vehicles Available Occupied Housing Units 3 Or More Vehicles Available
+DP02PR_0102PE, Year Of Entry Population Born Outside Puerto Rico Foreign Born Entered Before 2010
+DP02PR_0038E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married) Per 1 000 Unmarried Women
+DP02_0044E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Grandparents Responsible For Grandchildren
+DP05_0055PE, Race Total Population One Race Native Hawaiian And Other Pacific Islander Samoan
+DP03_0093PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Median Earnings For Male Full-Time Year-Round Workers (Dollars)
+DP05_0062E,Estimate Race Total Population Two Or More Races Black Or African American And American Indian And Alaska Native
+DP04_0089E,Estimate Value Owner-Occupied Units Median (Dollars)
+DP02_0043E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years
+DP05_0042PE, Race Total Population One Race American Indian And Alaska Native Navajo Tribal Grouping
+DP02_0046PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 1 Or 2 Years
+DP05_0063E,Estimate Race Alone Or In Combination With One Or More Other Races Total Population
+DP02PR_0026PE, Marital Status Males 15 Years And Over Now Married Except Separated
+DP04_0088E,Estimate Value Owner-Occupied Units $1 000 000 Or More
+DP04_0074PE, Selected Characteristics Occupied Housing Units Lacking Complete Kitchen Facilities
+DP02_0042E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 35 To 50 Years Old
+DP04_0083E,Estimate Value Owner-Occupied Units $100 000 To $149 999
+DP02PR_0013PE, Households By Type Total Households Households With One Or More People Under 18 Years
+DP02PR_0035E,Estimate Marital Status Females 15 Years And Over Divorced
+DP02_0135PE, Ancestry Total Population Italian
+DP03_0116PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage With Private Health Insurance
+DP02_0041E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 20 To 34 Years Old
+COUNTY,Geography
+DP04_0082E,Estimate Value Owner-Occupied Units $50 000 To $99 999
+DP02PR_0034E,Estimate Marital Status Females 15 Years And Over Widowed
+DP04_0128PE, Gross Rent Occupied Units Paying Rent $500 To $999
+DP02_0040E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 19 Years Old
+DP02PR_0146PE, Ancestry Total Population Swiss
+DP04_0085E,Estimate Value Owner-Occupied Units $200 000 To $299 999
+DP02PR_0037E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married)
+DP03_0027PE, Occupation Civilian Employed Population 16 Years And Over Management Business Science And Arts Occupations
+DP02PR_0133PE, Ancestry Total Population Hungarian
+DP04_0008PE, Units In Structure Total Housing Units 1-Unit Attached
+DP05_0086PE, Total Housing Units
+DP02_0002PE, Households By Type Total Households Family Households (Families)
+DP04_0084E,Estimate Value Owner-Occupied Units $150 000 To $199 999
+DP03_0080PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $35 000 To $49 999
+DP03_0103PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force
+DP02PR_0036E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months
+DP02_0059PE, Educational Attainment Population 25 Years And Over Less Than 9Th Grade
+DP02_0029E,Estimate Marital Status Males 15 Years And Over Divorced
+DP04_0092PE, Mortgage Status Owner-Occupied Units Housing Units Without A Mortgage
+DP05_0073PE, Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Puerto Rican
+DP04_0120E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 15.0 To 19.9 Percent
+DP03_0001PE, Employment Status Population 16 Years And Over
+DP02_0020PE, Relationship Population In Households Child
+DP02PR_0060PE, Educational Attainment Population 25 Years And Over 9Th To 12Th Grade No Diploma
+DP02_0028E,Estimate Marital Status Males 15 Years And Over Widowed
+DP03_0121PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only
+DP04_0039PE, Bedrooms Total Housing Units No Bedroom
+DP02_0077PE, Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over With A Disability
+DP02_0027E,Estimate Marital Status Males 15 Years And Over Separated
+DP04_0122E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 25.0 To 29.9 Percent
+DP04_0115PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 35.0 Percent Or More
+DP02_0140PE, Ancestry Total Population Russian
+DP02PR_0007PE, Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family With Own Children Of The Householder Under 18 Years
+SDUNI,Geography
+DP04_0121E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 20.0 To 24.9 Percent
+DP02_0026E,Estimate Marital Status Males 15 Years And Over Now Married Except Separated
+DP03_0014PE, Employment Status Own Children Of The Householder Under 6 Years
+DP04_0079E,Estimate Occupants Per Room Occupied Housing Units 1.51 Or More
+DP04_0026PE, Year Structure Built Total Housing Units Built 1939 Or Earlier
+DP05_0007PE, Sex And Age Total Population 10 To 14 Years
+DP02_0025E,Estimate Marital Status Males 15 Years And Over Never Married
+DP03_0045PE, Industry Civilian Employed Population 16 Years And Over Public Administration
+DP05_0060PE, Race Total Population Two Or More Races White And American Indian And Alaska Native
+DP04_0078E,Estimate Occupants Per Room Occupied Housing Units 1.01 To 1.50
+DP02_0033PE, Marital Status Females 15 Years And Over Separated
+AIHHTL,Geography
+DP02PR_0127PE, Ancestry Total Population Dutch
+DP02_0024E,Estimate Marital Status Males 15 Years And Over
+DP03_0134PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over 18 To 64 Years
+DP02PR_0114PE, Language Spoken At Home Population 5 Years And Over Spanish
+DP02_0023E,Estimate Relationship Population In Households Nonrelatives Unmarried Partner
+DP04_0102PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage
+DP03_0058PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $75 000 To $99 999
+DP02_0022E,Estimate Relationship Population In Households Nonrelatives
+DP02PR_0099PE, Year Of Entry Population Born Outside Puerto Rico Native Entered Before 2010
+DP04_0133PE, Gross Rent Occupied Units Paying Rent $3 000 Or More
+DP02_0118PE, Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages
+DP04_0128E,Estimate Gross Rent Occupied Units Paying Rent $500 To $999
+DP03_0089PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Nonfamily Households
+DP02PR_0042PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 35 To 50 Years Old
+DP04_0127E,Estimate Gross Rent Occupied Units Paying Rent Less Than $500
+REGION,Geography
+DP03_0032PE, Industry Civilian Employed Population 16 Years And Over
+DP02PR_0109PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Northern America
+DP04_0129E,Estimate Gross Rent Occupied Units Paying Rent $1 000 To $1 499
+DP02_0095PE, U.S. Citizenship Status Foreign-Born Population Not A U.S. Citizen
+DP04_0013PE, Units In Structure Total Housing Units 20 Or More Units
+DP04_0124E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 35.0 Percent Or More
+DP02_0064PE, Educational Attainment Population 25 Years And Over Bachelor'S Degree
+DP04_0120PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 15.0 To 19.9 Percent
+DP02PR_0086PE, Place Of Birth Total Population
+DP04_0123E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 30.0 To 34.9 Percent
+DP05_0038PE, Race Total Population One Race Black Or African American
+DP03_0076PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Less Than $10 000
+DP02PR_0073PE, Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years With A Disability
+DP04_0126E,Estimate Gross Rent Occupied Units Paying Rent
+DP05_0025PE, Sex And Age Total Population 18 Years And Over
+DP03_0028E,Estimate Occupation Civilian Employed Population 16 Years And Over Service Occupations
+DP04_0125E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Not Computed
+DP02_0051PE, Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Married
+DP04_0057PE, Vehicles Available Occupied Housing Units
+DP03_0029E,Estimate Occupation Civilian Employed Population 16 Years And Over Sales And Office Occupations
+DP03_0038E,Estimate Industry Civilian Employed Population 16 Years And Over Transportation And Warehousing And Utilities
+DP02PR_0043E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years
+DP02PR_0132PE, Ancestry Total Population Greek
+DP02PR_0069PE, Veteran Status Civilian Population 18 Years And Over Civilian Veterans
+DP02PR_0042E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 35 To 50 Years Old
+DP02_0149PE, Ancestry Total Population West Indian (Excluding Hispanic Origin Groups)
+DP04_0031PE, Rooms Total Housing Units 4 Rooms
+DP02_0016PE, Households By Type Total Households Average Family Size
+DP03_0039E,Estimate Industry Civilian Employed Population 16 Years And Over Information
+DP03_0036E,Estimate Industry Civilian Employed Population 16 Years And Over Wholesale Trade
+DP02PR_0056PE, School Enrollment Population 3 Years And Over Enrolled In School High School (Grades 9-12)
+DP03_0117PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage With Public Coverage
+DP02PR_0045E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren Less Than 1 Year
+DP02_0136PE, Ancestry Total Population Lithuanian
+DP05_0069PE, Race Alone Or In Combination With One Or More Other Races Total Population Some Other Race
+DP03_0063PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households Mean Household Income (Dollars)
+DP04_0044PE, Bedrooms Total Housing Units 5 Or More Bedrooms
+DP03_0037E,Estimate Industry Civilian Employed Population 16 Years And Over Retail Trade
+DP02PR_0044E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Grandparents Responsible For Grandchildren
+DP05_0012PE, Sex And Age Total Population 45 To 54 Years
+DP05_0076E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino
+DP03_0034E,Estimate Industry Civilian Employed Population 16 Years And Over Construction
+DP03_0035E,Estimate Industry Civilian Employed Population 16 Years And Over Manufacturing
+DP02_0105PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Asia
+DP05_0077E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino White Alone
+DP04_0119E,Estimate Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 10.0 To 14.9 Percent
+CONCITY,Geography
+DP04_0075PE, Selected Characteristics Occupied Housing Units No Telephone Service Available
+DP03_0032E,Estimate Industry Civilian Employed Population 16 Years And Over
+DP02PR_0041E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 20 To 34 Years Old
+DP05_0078E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Black Or African American Alone
+DP04_0088PE, Value Owner-Occupied Units $1 000 000 Or More
+DP02_0082PE, Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Different County
+DP02_0029PE, Marital Status Males 15 Years And Over Divorced
+DP02PR_0043PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years
+DP02PR_0040E,Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 19 Years Old
+DP03_0033E,Estimate Industry Civilian Employed Population 16 Years And Over Agriculture Forestry Fishing And Hunting And Mining
+DP05_0079E,Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino American Indian And Alaska Native Alone
+CBSA,Geography
+DP03_0050PE, Class Of Worker Civilian Employed Population 16 Years And Over Unpaid Family Workers
+DP05_0056PE, Race Total Population One Race Native Hawaiian And Other Pacific Islander Other Pacific Islander
+DP04_0075E,Estimate Selected Characteristics Occupied Housing Units No Telephone Service Available
+DP05_0072E,Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Mexican
+DP02_0110PE, Language Spoken At Home Population 5 Years And Over
+DP02PR_0038PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed Divorced And Never Married) Per 1 000 Unmarried Women
+DP03_0030E,Estimate Occupation Civilian Employed Population 16 Years And Over Natural Resources Construction And Maintenance Occupations
+DP03_0028PE, Occupation Civilian Employed Population 16 Years And Over Service Occupations
+DP04_0009PE, Units In Structure Total Housing Units 2 Units
+DP02_0033E,Estimate Marital Status Females 15 Years And Over Separated
+DP05_0043PE, Race Total Population One Race American Indian And Alaska Native Sioux Tribal Grouping
+DP04_0062PE, House Heating Fuel Occupied Housing Units
+DP02_0047PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 3 Or 4 Years
+DP04_0074E,Estimate Selected Characteristics Occupied Housing Units Lacking Complete Kitchen Facilities
+DP03_0081PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families $50 000 To $74 999
+DP05_0073E,Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Puerto Rican
+DP03_0031E,Estimate Occupation Civilian Employed Population 16 Years And Over Production Transportation And Material Moving Occupations
+DP02_0032E,Estimate Marital Status Females 15 Years And Over Now Married Except Separated
+DP02PR_0091PE, Place Of Birth Total Population Native Born In U.S. Island Areas Or Born Abroad Of American Parents
+DP05_0074E,Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Cuban
+DP04_0077E,Estimate Occupants Per Room Occupied Housing Units 1.00 Or Less
+DP02_0031E,Estimate Marital Status Females 15 Years And Over Never Married
+DP05_0075E,Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Other Hispanic Or Latino
+DP02PR_0101PE, Year Of Entry Population Born Outside Puerto Rico Foreign Born Entered 2010 Or Later
+DP04_0076E,Estimate Occupants Per Room Occupied Housing Units
+DP02_0034PE, Marital Status Females 15 Years And Over Widowed
+DP03_0094PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Median Earnings For Female Full-Time Year-Round Workers (Dollars)
+DP02_0030E,Estimate Marital Status Females 15 Years And Over
+DP04_0071E,Estimate House Heating Fuel Occupied Housing Units No Fuel Used
+DP02PR_0047E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 3 Or 4 Years
+DP04_0116PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Units With A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Not Computed
+DP05_0087PE, Citizen Voting Age Population Citizen 18 And Over Population
+DP02_0003PE, Households By Type Total Households Family Households (Families) With Own Children Of The Householder Under 18 Years
+DP02PR_0025PE, Marital Status Males 15 Years And Over Never Married
+DP04_0070E,Estimate House Heating Fuel Occupied Housing Units Other Fuel
+DP02PR_0046E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 1 Or 2 Years
+DP03_0104PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed
+DP05_0030PE, Sex And Age Total Population 65 Years And Over Male
+DP03_0015PE, Employment Status Own Children Of The Householder Under 6 Years All Parents In Family In Labor Force
+DP05_0070E,Estimate Hispanic Or Latino And Race Total Population
+DP04_0073E,Estimate Selected Characteristics Occupied Housing Units Lacking Complete Plumbing Facilities
+DP02PR_0012PE, Households By Type Total Households Nonfamily Households Householder Living Alone 65 Years And Over
+DP02PR_0049E,Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years
+DP05_0071E,Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race)
+DP04_0072E,Estimate Selected Characteristics Occupied Housing Units
+DP04_0129PE, Gross Rent Occupied Units Paying Rent $1 000 To $1 499
+DP02PR_0048E,Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 5 Or More Years
+DP02_0123PE, Ancestry Total Population American
+DP02PR_0145PE, Ancestry Total Population Swedish
+DP02_0017E,Estimate Relationship Population In Households
+DP04_0023E,Estimate Year Structure Built Total Housing Units Built 1960 To 1969
+DP02PR_0108E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Latin America
+DP02PR_0117PE, Language Spoken At Home Population 5 Years And Over Other Indo-European Languages Speak English Less Than Very Well
+DP03_0024PE, Commuting To Work Workers 16 Years And Over Worked At Home
+DP02_0141PE, Ancestry Total Population Scotch-Irish
+DP02_0149E,Estimate Ancestry Total Population West Indian (Excluding Hispanic Origin Groups)
+DP02_0016E,Estimate Households By Type Total Households Average Family Size
+DP04_0080PE, Value Owner-Occupied Units
+DP04_0022E,Estimate Year Structure Built Total Housing Units Built 1970 To 1979
+DP04_0103PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage Less Than $250
+DP02PR_0107E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Oceania
+DP04_0093PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage
+DP02_0148E,Estimate Ancestry Total Population Welsh
+DP04_0025E,Estimate Year Structure Built Total Housing Units Built 1940 To 1949
+DP02_0015E,Estimate Households By Type Total Households Average Household Size
+DP02_0065PE, Educational Attainment Population 25 Years And Over Graduate Or Professional Degree
+DP04_0024E,Estimate Year Structure Built Total Housing Units Built 1950 To 1959
+DP03_0037PE, Industry Civilian Employed Population 16 Years And Over Retail Trade
+DP02PR_0109E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Northern America
+DP02PR_0094PE, U.S. Citizenship Status Foreign-Born Population Naturalized U.S. Citizen
+DP02_0147E,Estimate Ancestry Total Population Ukrainian
+DP02_0014E,Estimate Households By Type Total Households Households With One Or More People 65 Years And Over
+DP02PR_0104E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Europe
+DP02PR_0081PE, Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S. In Puerto Rico
+DP03_0068PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Retirement Income
+DP02_0146E,Estimate Ancestry Total Population Swiss
+DP02_0013E,Estimate Households By Type Total Households Households With One Or More People Under 18 Years
+DP05_0083PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races
+DP03_0100PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population Under 19 Years
+DP02PR_0104PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Europe
+DP02PR_0103E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea
+DP03_0011PE, Employment Status Females 16 Years And Over In Labor Force
+DP02_0145E,Estimate Ancestry Total Population Swedish
+DP04_0014PE, Units In Structure Total Housing Units Mobile Home
+DP02_0012E,Estimate Households By Type Total Households Nonfamily Households Householder Living Alone 65 Years And Over
+DP05_0070PE, Hispanic Or Latino And Race Total Population
+DP04_0021E,Estimate Year Structure Built Total Housing Units Built 1980 To 1989
+DP02PR_0106E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Africa
+DP04_0027PE, Rooms Total Housing Units
+DP02_0021PE, Relationship Population In Households Other Relatives
+DP02_0011E,Estimate Households By Type Total Households Nonfamily Households Householder Living Alone
+DP02_0144E,Estimate Ancestry Total Population Subsaharan African
+DP04_0020E,Estimate Year Structure Built Total Housing Units Built 1990 To 1999
+DP02PR_0028PE, Marital Status Males 15 Years And Over Widowed
+DP02PR_0105E,Estimate World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Asia
+DP02_0143E,Estimate Ancestry Total Population Slovak
+DP02_0010E,Estimate Households By Type Total Households Nonfamily Households
+DP02_0078PE, Residence 1 Year Ago Population 1 Year And Over
+DP02PR_0076PE, Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over
+DP04_0001PE, Housing Occupancy Total Housing Units
+DP05_0017PE, Sex And Age Total Population 85 Years And Over
+DP02_0096PE, Year Of Entry Population Born Outside The United States
+DP03_0055PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $25 000 To $34 999
+DP04_0058PE, Vehicles Available Occupied Housing Units No Vehicles Available
+DP04_0134PE, Gross Rent Occupied Units Paying Rent Median (Dollars)
+DP02PR_0061E,Estimate Educational Attainment Population 25 Years And Over High School Graduate (Includes Equivalency)
+DP05_0004PE, Sex And Age Total Population Sex Ratio (Males Per 100 Females)
+DP02PR_0060E,Estimate Educational Attainment Population 25 Years And Over 9Th To 12Th Grade No Diploma
+DP02_0106PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Africa
+DP03_0109PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed
+DP03_0131PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years Related Children Of The Householder Under 5 Years
+DP04_0027E,Estimate Rooms Total Housing Units
+DP05_0048E,Estimate Race Total Population One Race Asian Japanese
+DP04_0045PE, Housing Tenure Occupied Housing Units
+DP02PR_0063PE, Educational Attainment Population 25 Years And Over Associate'S Degree
+DP04_0026E,Estimate Year Structure Built Total Housing Units Built 1939 Or Earlier
+DP05_0049E,Estimate Race Total Population One Race Asian Korean
+DP02_0052PE, School Enrollment Population 3 Years And Over Enrolled In School
+DP03_0099PE, Health Insurance Coverage Civilian Noninstitutionalized Population No Health Insurance Coverage
+DP02_0019E,Estimate Relationship Population In Households Spouse
+DP02_0119PE, Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages Speak English Less Than Very Well
+DP04_0029E,Estimate Rooms Total Housing Units 2 Rooms
+DP03_0042PE, Industry Civilian Employed Population 16 Years And Over Educational Services And Health Care And Social Assistance
+DP05_0048PE, Race Total Population One Race Asian Japanese
+DP02_0018E,Estimate Relationship Population In Households Householder
+DP04_0121PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 20.0 To 24.9 Percent
+DP04_0028E,Estimate Rooms Total Housing Units 1 Room
+DP02PR_0050PE, Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Female
+DP05_0044E,Estimate Race Total Population One Race Asian
+DP02PR_0055E,Estimate School Enrollment Population 3 Years And Over Enrolled In School Elementary School (Grades 1-8)
+DP02_0137PE, Ancestry Total Population Norwegian
+DP04_0089PE, Value Owner-Occupied Units Median (Dollars)
+DP02PR_0046PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 1 Or 2 Years
+DP05_0045E,Estimate Race Total Population One Race Asian Asian Indian
+DP02PR_0054E,Estimate School Enrollment Population 3 Years And Over Enrolled In School Kindergarten
+DP03_0048E,Estimate Class Of Worker Civilian Employed Population 16 Years And Over Government Workers
+DP02PR_0033PE, Marital Status Females 15 Years And Over Separated
+DP05_0046E,Estimate Race Total Population One Race Asian Chinese
+DP02PR_0057E,Estimate School Enrollment Population 3 Years And Over Enrolled In School College Or Graduate School
+DP03_0086PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Median Family Income (Dollars)
+DP02_0004PE, Households By Type Total Households Family Households (Families) Married-Couple Family
+DP03_0049E,Estimate Class Of Worker Civilian Employed Population 16 Years And Over Self-Employed In Own Not Incorporated Business Workers
+DP05_0047E,Estimate Race Total Population One Race Asian Filipino
+DP02PR_0056E,Estimate School Enrollment Population 3 Years And Over Enrolled In School High School (Grades 9-12)
+DP04_0032PE, Rooms Total Housing Units 5 Rooms
+DP05_0035PE, Race Total Population Two Or More Races
+DP03_0046E,Estimate Class Of Worker Civilian Employed Population 16 Years And Over
+DP05_0040E,Estimate Race Total Population One Race American Indian And Alaska Native Cherokee Tribal Grouping
+DP02PR_0051E,Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Married
+DP02_0083PE, Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Different County Same State
+DP05_0022PE, Sex And Age Total Population 21 Years And Over
+DP03_0007PE, Employment Status Population 16 Years And Over Not In Labor Force
+DP03_0047E,Estimate Class Of Worker Civilian Employed Population 16 Years And Over Private Wage And Salary Workers
+DP05_0041E,Estimate Race Total Population One Race American Indian And Alaska Native Chippewa Tribal Grouping
+DP02PR_0050E,Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Female
+DP03_0060PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $150 000 To $199 999
+DP02PR_0077PE, Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over With A Disability
+DP02_0070PE, Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population
+DP05_0042E,Estimate Race Total Population One Race American Indian And Alaska Native Navajo Tribal Grouping
+DP02PR_0053E,Estimate School Enrollment Population 3 Years And Over Enrolled In School Nursery School Preschool
+DP03_0044E,Estimate Industry Civilian Employed Population 16 Years And Over Other Services Except Public Administration
+DP02PR_0020PE, Relationship Population In Households Child
+DP05_0043E,Estimate Race Total Population One Race American Indian And Alaska Native Sioux Tribal Grouping
+DP02PR_0052E,Estimate School Enrollment Population 3 Years And Over Enrolled In School
+DP03_0045E,Estimate Industry Civilian Employed Population 16 Years And Over Public Administration
+DP04_0076PE, Occupants Per Room Occupied Housing Units
+DP05_0079PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino American Indian And Alaska Native Alone
+DP02_0017PE, Relationship Population In Households
+DP03_0073PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Cash Public Assistance Income Mean Cash Public Assistance Income (Dollars)
+ANRC,Geography
+DP04_0050PE, Year Householder Moved Into Unit Occupied Housing Units
+DP03_0042E,Estimate Industry Civilian Employed Population 16 Years And Over Educational Services And Health Care And Social Assistance
+DP02PR_0015PE, Households By Type Total Households Average Household Size
+DP02PR_0100E,Estimate Year Of Entry Population Born Outside Puerto Rico Foreign Born
+DP03_0114PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force
+DP02_0021E,Estimate Relationship Population In Households Other Relatives
+DP05_0066PE, Race Alone Or In Combination With One Or More Other Races Total Population American Indian And Alaska Native
+DP03_0043E,Estimate Industry Civilian Employed Population 16 Years And Over Arts Entertainment And Recreation And Accommodation And Food Services
+DP02PR_0148PE, Ancestry Total Population Welsh
+DP02_0020E,Estimate Relationship Population In Households Child
+DP02_0035PE, Marital Status Females 15 Years And Over Divorced
+DP03_0040E,Estimate Industry Civilian Employed Population 16 Years And Over Finance And Insurance And Real Estate And Rental And Leasing
+DP02PR_0102E,Estimate Year Of Entry Population Born Outside Puerto Rico Foreign Born Entered Before 2010
+DP02PR_0135PE, Ancestry Total Population Italian
+DP04_0063PE, House Heating Fuel Occupied Housing Units Utility Gas
+DP02_0152E,Estimate Computers And Internet Use Total Households With A Broadband Internet Subscription
+DP03_0101PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population Under 19 Years No Health Insurance Coverage
+DP03_0041E,Estimate Industry Civilian Employed Population 16 Years And Over Professional Scientific And Management And Administrative And Waste Management Services
+DP02PR_0101E,Estimate Year Of Entry Population Born Outside Puerto Rico Foreign Born Entered 2010 Or Later
+DP02_0151E,Estimate Computers And Internet Use Total Households With A Computer
+DP04_0094PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage Less Than $500
+DP02PR_0059PE, Educational Attainment Population 25 Years And Over Less Than 9Th Grade
+DP02PR_0059E,Estimate Educational Attainment Population 25 Years And Over Less Than 9Th Grade
+DP02_0150E,Estimate Computers And Internet Use Total Households
+DP02PR_0002PE, Households By Type Total Households Family Households (Families)
+DP02PR_0058E,Estimate Educational Attainment Population 25 Years And Over
+DP02_0124PE, Ancestry Total Population Arab
+DP03_0127PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level Families With Female Householder No Husband Present With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only
+DP03_0038PE, Industry Civilian Employed Population 16 Years And Over Transportation And Warehousing And Utilities
+DP05_0053PE, Race Total Population One Race Native Hawaiian And Other Pacific Islander Native Hawaiian
+DP02_0111PE, Language Spoken At Home Population 5 Years And Over English Only
+DP03_0091PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Nonfamily Households Mean Nonfamily Income (Dollars)
+DP04_0117PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed)
+DP02_0048PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 5 Or More Years
+DP05_0040PE, Race Total Population One Race American Indian And Alaska Native Cherokee Tribal Grouping
+DP02PR_0122PE, Ancestry Total Population
+DP02_0138E,Estimate Ancestry Total Population Polish
+DP02_0005E,Estimate Households By Type Total Households Family Households (Families) Married-Couple Family With Own Children Of The Householder Under 18 Years
+DP04_0011E,Estimate Units In Structure Total Housing Units 5 To 9 Units
+DP04_0028PE, Rooms Total Housing Units 1 Room
+DP02_0066PE, Educational Attainment Population 25 Years And Over Percent High School Graduate Or Higher
+DP02_0137E,Estimate Ancestry Total Population Norwegian
+DP04_0143E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) Not Computed
+DP04_0010E,Estimate Units In Structure Total Housing Units 3 Or 4 Units
+DP02PR_0119E,Estimate Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages Speak English Less Than Very Well
+DP02_0004E,Estimate Households By Type Total Households Family Households (Families) Married-Couple Family
+DP02PR_0129PE, Ancestry Total Population French (Except Basque)
+DP03_0132PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years Related Children Of The Householder 5 To 17 Years
+DP04_0013E,Estimate Units In Structure Total Housing Units 20 Or More Units
+DP03_0025PE, Commuting To Work Workers 16 Years And Over Mean Travel Time To Work (Minutes)
+DP02PR_0116PE, Language Spoken At Home Population 5 Years And Over Other Indo-European Languages
+DP02_0136E,Estimate Ancestry Total Population Lithuanian
+DP02_0003E,Estimate Households By Type Total Households Family Households (Families) With Own Children Of The Householder Under 18 Years
+DP05_0084PE, Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races Two Races Including Some Other Race
+DP04_0081PE, Value Owner-Occupied Units Less Than $50 000
+DP04_0012E,Estimate Units In Structure Total Housing Units 10 To 19 Units
+DP04_0104PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $250 To $399
+DP02_0053PE, School Enrollment Population 3 Years And Over Enrolled In School Nursery School Preschool
+DP02_0135E,Estimate Ancestry Total Population Italian
+DP02_0002E,Estimate Households By Type Total Households Family Households (Families)
+DP04_0135PE, Gross Rent Occupied Units Paying Rent No Rent Paid
+DP04_0140E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 25.0 To 29.9 Percent
+DP05_0071PE, Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race)
+DP02PR_0116E,Estimate Language Spoken At Home Population 5 Years And Over Other Indo-European Languages
+DP02_0022PE, Relationship Population In Households Nonrelatives
+DP02_0134E,Estimate Ancestry Total Population Irish
+DP02_0001E,Estimate Households By Type Total Households
+DP02PR_0115E,Estimate Language Spoken At Home Population 5 Years And Over Spanish Speak English Less Than Very Well
+DP02_0079PE, Residence 1 Year Ago Population 1 Year And Over Same House
+DP02PR_0093PE, U.S. Citizenship Status Foreign-Born Population
+DP02_0133E,Estimate Ancestry Total Population Hungarian
+DP04_0142E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 35.0 Percent Or More
+DP02PR_0118E,Estimate Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages
+DP03_0069PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Retirement Income Mean Retirement Income (Dollars)
+DP02_0132E,Estimate Ancestry Total Population Greek
+DP02PR_0080PE, Residence 1 Year Ago Population 1 Year And Over Different House In Puerto Rico Or The U.S.
+DP02_0142PE, Ancestry Total Population Scottish
+DP04_0141E,Estimate Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 30.0 To 34.9 Percent
+DP02PR_0103PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea
+DP02PR_0117E,Estimate Language Spoken At Home Population 5 Years And Over Other Indo-European Languages Speak English Less Than Very Well
+DP04_0015PE, Units In Structure Total Housing Units Boat Rv Van Etc.
+DP05_0018PE, Sex And Age Total Population Median Age (Years)
+DP03_0012PE, Employment Status Females 16 Years And Over In Labor Force Civilian Labor Force
+DP02_0131E,Estimate Ancestry Total Population German
+DP02PR_0071E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population With A Disability
+DP05_0005PE, Sex And Age Total Population Under 5 Years
+DP02PR_0151PE, Computers And Internet Use Total Households With A Computer
+DP04_0019E,Estimate Year Structure Built Total Housing Units Built 2000 To 2009
+AIANHH,Geography
+DP03_0043PE, Industry Civilian Employed Population 16 Years And Over Arts Entertainment And Recreation And Accommodation And Food Services
+DP02PR_0088PE, Place Of Birth Total Population Native Born In Puerto Rico Or The United States
+DP04_0122PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) 25.0 To 29.9 Percent
+DP02PR_0070E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population
+DP02_0107PE, World Region Of Birth Of Foreign Born Foreign-Born Population Excluding Population Born At Sea Oceania
+DP04_0018E,Estimate Year Structure Built Total Housing Units Built 2010 To 2013
+DP02PR_0073E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years With A Disability
+DP02PR_0075PE, Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years With A Disability
+DP02_0084PE, Residence 1 Year Ago Population 1 Year And Over Different House In The U.S. Different County Different State
+DP04_0002PE, Housing Occupancy Total Housing Units Occupied Housing Units
+DP02PR_0072E,Estimate Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years
+DP04_0059PE, Vehicles Available Occupied Housing Units 1 Vehicle Available
+DP03_0056PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $35 000 To $49 999
+TRIBALCT,Geography
+DP02_0009E,Estimate Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family With Own Children Of The Householder Under 18 Years
+DP04_0015E,Estimate Units In Structure Total Housing Units Boat Rv Van Etc.
+DP05_0049PE, Race Total Population One Race Asian Korean
+DP03_0087PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Families Mean Family Income (Dollars)
+DP02_0008E,Estimate Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family
+DP04_0014E,Estimate Units In Structure Total Housing Units Mobile Home
+DP03_0030PE, Occupation Civilian Employed Population 16 Years And Over Natural Resources Construction And Maintenance Occupations
+DP04_0033PE, Rooms Total Housing Units 6 Rooms
+DP02_0007E,Estimate Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family With Own Children Of The Householder Under 18 Years
+DP04_0017E,Estimate Year Structure Built Total Housing Units Built 2014 Or Later
+DP02_0040PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1 000 Women 15 To 19 Years Old
+DP04_0046PE, Housing Tenure Occupied Housing Units Owner-Occupied
+DP02_0139E,Estimate Ancestry Total Population Portuguese
+DP02_0006E,Estimate Households By Type Total Households Family Households (Families) Male Householder No Wife Present Family
+DP02PR_0062PE, Educational Attainment Population 25 Years And Over Some College No Degree
+DP04_0016E,Estimate Year Structure Built Total Housing Units
+DP02PR_0009PE, Households By Type Total Households Family Households (Families) Female Householder No Husband Present Family With Own Children Of The Householder Under 18 Years
+GEO_ID,Geography
+TRACT,Geography
+DP02_0097PE, Year Of Entry Population Born Outside The United States Native
+DP04_0091E,Estimate Mortgage Status Owner-Occupied Units Housing Units With A Mortgage
+DP05_0056E,Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Other Pacific Islander
+DP02PR_0067E,Estimate Educational Attainment Population 25 Years And Over Percent Bachelor'S Degree Or Higher
+DP02_0097E,Estimate Year Of Entry Population Born Outside The United States Native
+DP04_0020PE, Year Structure Built Total Housing Units Built 1990 To 1999
+DP02_0005PE, Households By Type Total Households Family Households (Families) Married-Couple Family With Own Children Of The Householder Under 18 Years
+DP03_0100E,Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population Under 19 Years
+DP04_0090E,Estimate Mortgage Status Owner-Occupied Units
+DP02PR_0066E,Estimate Educational Attainment Population 25 Years And Over Percent High School Graduate Or Higher
+DP05_0057E,Estimate Race Total Population One Race Some Other Race
+DP02PR_0121PE, Language Spoken At Home Population 5 Years And Over Other Languages Speak English Less Than Very Well
+DP03_0074PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households With Food Stamp/Snap Benefits In The Past 12 Months
+DP02_0096E,Estimate Year Of Entry Population Born Outside The United States
+DP05_0036PE, Race Total Population One Race
+DP04_0077PE, Occupants Per Room Occupied Housing Units 1.00 Or Less
+DP04_0093E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage
+DP05_0058E,Estimate Race Total Population Two Or More Races
+DP02PR_0069E,Estimate Veteran Status Civilian Population 18 Years And Over Civilian Veterans
+DP02_0095E,Estimate U.S. Citizenship Status Foreign-Born Population Not A U.S. Citizen
+DP05_0023PE, Sex And Age Total Population 62 Years And Over
+DP04_0092E,Estimate Mortgage Status Owner-Occupied Units Housing Units Without A Mortgage
+DP02PR_0045PE, Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren Less Than 1 Year
+DP03_0128PE, Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People
+DP02PR_0068E,Estimate Veteran Status Civilian Population 18 Years And Over
+DP05_0059E,Estimate Race Total Population Two Or More Races White And Black Or African American
+DP02_0125PE, Ancestry Total Population Czech
+DP02_0094E,Estimate U.S. Citizenship Status Foreign-Born Population Naturalized U.S. Citizen
+DP02PR_0032PE, Marital Status Females 15 Years And Over Now Married Except Separated
+DP03_0058E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $75 000 To $99 999
+DP05_0052E,Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander
+DP02PR_0063E,Estimate Educational Attainment Population 25 Years And Over Associate'S Degree
+DP02_0093E,Estimate U.S. Citizenship Status Foreign-Born Population
+DP04_0064PE, House Heating Fuel Occupied Housing Units Bottled Tank Or Lp Gas
+DP03_0059E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $100 000 To $149 999
+DP02PR_0062E,Estimate Educational Attainment Population 25 Years And Over Some College No Degree
+DP05_0053E,Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Native Hawaiian
+DP02_0092E,Estimate Place Of Birth Total Population Foreign Born
+DP02_0071PE, Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population With A Disability
+DP02_0018PE, Relationship Population In Households Householder
+DP05_0054E,Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Guamanian Or Chamorro
+DP03_0056E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $35 000 To $49 999
+DP02PR_0065E,Estimate Educational Attainment Population 25 Years And Over Graduate Or Professional Degree
+DP02_0138PE, Ancestry Total Population Polish
+DP02_0091E,Estimate Place Of Birth Total Population Native Born In Puerto Rico U.S. Island Areas Or Born Abroad To American Parent(S)
+DP02PR_0152PE, Computers And Internet Use Total Households With A Broadband Internet Subscription
+DP05_0067PE, Race Alone Or In Combination With One Or More Other Races Total Population Asian
+DP03_0061PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $200 000 Or More
+DP03_0008PE, Employment Status Civilian Labor Force
+DP02PR_0089PE, Place Of Birth Total Population Native Born In Puerto Rico Or The United States In Puerto Rico
+DP03_0057E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $50 000 To $74 999
+DP02PR_0064E,Estimate Educational Attainment Population 25 Years And Over Bachelor'S Degree
+DP05_0055E,Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Samoan
+DP04_0140PE, Gross Rent As A Percentage Of Household Income (Grapi) Occupied Units Paying Rent (Excluding Units Where Grapi Cannot Be Computed) 25.0 To 29.9 Percent
+DP02_0090E,Estimate Place Of Birth Total Population Native Born In United States Different State
+DP05_0010PE, Sex And Age Total Population 25 To 34 Years
+DP03_0054E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $15 000 To $24 999
+DP03_0092PE, Income And Benefits (In 2017 Inflation-Adjusted Dollars) Median Earnings For Workers (Dollars)
+DP04_0118PE, Selected Monthly Owner Costs As A Percentage Of Household Income (Smocapi) Housing Unit Without A Mortgage (Excluding Units Where Smocapi Cannot Be Computed) Less Than 10.0 Percent
+DP02PR_0112E,Estimate Language Spoken At Home Population 5 Years And Over Language Other Than English
+DP04_0099E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $2 500 To $2 999
+DP02_0142E,Estimate Ancestry Total Population Scottish
+DP03_0055E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $25 000 To $34 999
+DP02PR_0111E,Estimate Language Spoken At Home Population 5 Years And Over English Only
+DP02PR_0027PE, Marital Status Males 15 Years And Over Separated
+DP03_0102PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years
+DP04_0098E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $2 000 To $2 499
+DP02_0141E,Estimate Ancestry Total Population Scotch-Irish
+DP05_0050E,Estimate Race Total Population One Race Asian Vietnamese
+NECTADIV,Geography
+DP02PR_0014PE, Households By Type Total Households Households With One Or More People 65 Years And Over
+DP03_0052E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households Less Than $10 000
+DP02PR_0114E,Estimate Language Spoken At Home Population 5 Years And Over Spanish
+DP02_0023PE, Relationship Population In Households Nonrelatives Unmarried Partner
+DP02_0140E,Estimate Ancestry Total Population Russian
+DP05_0051E,Estimate Race Total Population One Race Asian Other Asian
+DP03_0053E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households $10 000 To $14 999
+DP02PR_0113E,Estimate Language Spoken At Home Population 5 Years And Over Language Other Than English Speak English Less Than Very Well
+DP02PR_0147PE, Ancestry Total Population Ukrainian
+DP05_0054PE, Race Total Population One Race Native Hawaiian And Other Pacific Islander Guamanian Or Chamorro
+DP04_0051PE, Year Householder Moved Into Unit Occupied Housing Units Moved In 2015 Or Later
+DP04_0095E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $500 To $999
+DP03_0050E,Estimate Class Of Worker Civilian Employed Population 16 Years And Over Unpaid Family Workers
+DP02_0112PE, Language Spoken At Home Population 5 Years And Over Language Other Than English
+DP03_0026PE, Occupation Civilian Employed Population 16 Years And Over
+DP02PR_0134PE, Ancestry Total Population Irish
+DP05_0041PE, Race Total Population One Race American Indian And Alaska Native Chippewa Tribal Grouping
+DP02_0049PE, Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years
+DP04_0094E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage Less Than $500
+DP04_0082PE, Value Owner-Occupied Units $50 000 To $99 999
+DP03_0051E,Estimate Income And Benefits (In 2017 Inflation-Adjusted Dollars) Total Households
+DP04_0105PE, Selected Monthly Owner Costs (Smoc) Housing Units Without A Mortgage $400 To $599
+DP04_0097E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $1 500 To $1 999
+DP02PR_0058PE, Educational Attainment Population 25 Years And Over
+DP02PR_0110E,Estimate Language Spoken At Home Population 5 Years And Over
+DP03_0115PE, Health Insurance Coverage Civilian Noninstitutionalized Population Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage
+GEOCOMP,Geographic Component Code
+DP02_0099E,Estimate Year Of Entry Population Born Outside The United States Native Entered Before 2010
+DP04_0096E,Estimate Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $1 000 To $1 499
+DP02PR_0001PE, Households By Type Total Households
+DP03_0039PE, Industry Civilian Employed Population 16 Years And Over Information
+DP02_0098E,Estimate Year Of Entry Population Born Outside The United States Native Entered 2010 Or Later
+DP04_0095PE, Selected Monthly Owner Costs (Smoc) Housing Units With A Mortgage $500 To $999
+DP02_0036PE, Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months
