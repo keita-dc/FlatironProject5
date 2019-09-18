@@ -71,28 +71,36 @@ The model wrongly predicted 5% of the results, and those 5% concentrated in coun
 
 In the following map, I indicated where the models oftentimes make mistakes. Dark blue means a high probability that models call for Mr. Trump but actually Mrs. Clinton won in the county and vice versa. While the fact that the errors are observed in certain counties indicates some biases from omitted factors, which could be county-specific information, the bias is small enough in the big picture.
 
-![Model Mispredictions](images//xgc_diff_map.png "XGBoost Classifier Mispredictions")
+![Model Misprediction Map](images//xgc_diff_map.png "XGBoost Classifier Misprediction Map")
 
 *Blue: counties where models predicted red but Ms. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation*
 
 Here is a more detailed map of Washington D.C., Maryland, and Virginia. Some competitive counties in Virginia were difficult for the models; models always made mistakes in counties where Mrs. Clinton won with relatively narrow margins including Northampton (Mrs. Clinton 52.8% vs. Mr. Trump 43.5%), Prince Edward (C 50.2% vs. T 44.9%), Radford (C 48.1% vs. T 43.4%), Staunton (C 47.6% vs. T 45.6%), Surry (C 53.7% vs. T 43.0%), and Winchester (C 48.4% vs T 44.9%), while Lynchburg turned out to be red (C 41.5% vs. T 50.4%) despite the model predictions to be blue. In Maryland, Frederick county always confused the models (C 45.0% vs. T 47.4%).
 
-![Model Mispredictions](images//xgc_misprediction_margin.png "XGBoost Classifier Mispredictions")
+![Model Misprediction Map DMV](images//xgc_diff_map_dc.png "XGBoost Classifier Misprediction Map for DMV Area")
 
 *Blue: counties where models predicted red but Ms. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation*
 
-Blue: counties where models predicted red but Mrs. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation
-Margin Models
-From here, instead of classifiers, I examine models which predict margins of the voting results which are continuous numbers. Most machine learning models perform well again with R-squared slightly below 0.90. Here is a map of average test errors from 100 random trials. Counties in blue are where Mrs. Clinton perform better than the demography and social profiles of the counties tell, and vice versa for red. While the models are slightly biased and there may be omitted factors, features in the models capture the most static characteristics of each county (e.g. demography, lifestyle, religion) and omitted factors would be less structural (e.g. cyclical economic conditions varying by states).
+### County Level Regressions (Voting Share Margin Models)
 
-Blue: Mrs. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
-State Level Prediction
+From here, instead of classifiers, we examine models which predict margins of the voting results which are continuous numbers. Most machine learning models perform well again with R-squared slightly below 0.90. Here is a map of average test errors from 100 random trials. Counties in blue are where Mrs. Clinton perform better than the demography and social profiles of the counties tell, and vice versa for red. While the models are slightly biased and there may be omitted factors, features in the models capture the most static characteristics of each county (e.g. demography, lifestyle, religion) and omitted factors would be less structural (e.g. cyclical economic conditions varying by states).
+
+![Model Error Map](images//xgr_diff_map.png "XGBoost Regressor Error Map")
+
+*Blue: Mrs. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
+
+### State Level Prediction 
+
 Some states are competitive and others are less so; because of the winner-takes-all rule, predicting the state-level result is meaningful. Here I look at each of so-called “swing states” and compare the actual results and what the social profile data indicates.
+
+#### Colorado
 
 Source: US Census and author’s calculation
 Mrs. Clinton took the state of Colorado with winning 48.2% of total votes, close to 48.0% that models predicted. Models predicted counties with larger populations very well, including Denver and Jefferson counties, while they underestimated Mr. Trump in El Paso (Colorado Springs) county (model margin 6.6% vs. actual 22.3%).
 
 Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+
+#### Florida
 
 Source: US Census and author’s calculation
 Florida was one of the most competitive states in 2016, and Mr. Trump won with a margin of 1.2%. Models predicted it with an even narrower margin of 0.2%. Mrs. Clinton could not gain as much as models predicted in Miami-Dade (model margin 46.4% vs. actual 29.6%) and lost Pinellas and Duval (Jacksonville) counties despite the model predictions (model margins 5.7% and 13.5% for Mrs. Clinton respectively vs. actual 1.1% and 1.4% for Mr. Trump respectively).
