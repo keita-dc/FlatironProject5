@@ -239,7 +239,7 @@ Wisconsin was another state where the actual result was tighter than model predi
 
 ### Implications for 2020 Election
 
-It is a long short to predict the results of 2020 presidential election from the models based on 2016 data. The models here are, however, based on fundamental characteristics of counties, and may provide some structural implications.
+It is a long shot to predict the results of 2020 presidential election from the models based on 2016 data. The models here are, however, based on fundamental characteristics of counties, and may provide some structural implications.
 
 For the Democrat candidate to win the 2020 presidential race, s/he will need to add at least 38 electoral votes (EVs) to 232 EVs that Mrs. Clinton won in 2016. Without Florida’s 29 EVs, it would be difficult for Democrats to beat the counterpart. Based on the demographic and social profile, Arizona could provide 11EVs for democrats, while the state has been red for past five presidential elections. If not Arizona, Pennsylvania’s 20 EVs would suffice together with Florida.
 
