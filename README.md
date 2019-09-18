@@ -15,7 +15,11 @@ Dmitry Mikhaylov and Keita Miyaki
 ## Datasets
 - US Census: American Community Survey 5-Year Data
 
-We used "Data Profile" table which offers more than 1,000 variables about broad social, economic, housing, and demographic information. 
+We used "Data Profile" table which offers more than 1,000 variables about broad social, economic, housing, and demographic information
+
+- US Religion Census
+
+We used 2010 data which was the latest
 
 - MIT Election Data and Science Lab: "County Presidential Election Returns 2000-2016"
 
