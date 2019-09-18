@@ -179,7 +179,7 @@ Nevada could have been an easier state for Mrs. Clinton based on the models. Mr.
 
 #### New Hampshire
 
-![New Hampshire Prediction](images//Nxgr_error_map_rel_New_Hampshire.png "New Hampshire Prediction")
+![New Hampshire Prediction](images//xgr_error_map_rel_New_Hampshire.png "New Hampshire Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -191,7 +191,7 @@ New Hampshire was slightly more competitive as the prediction. In two of the lar
 
 #### North Carolina
 
-![North Calorina Prediction](images//Nxgr_error_map_rel_North_Calorina.png "North Calorina Prediction")
+![North Calorina Prediction](images//xgr_error_map_rel_North_Calorina.png "North Calorina Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -203,7 +203,7 @@ Mrs. Clinton performed better than model prediction in North Carolina. In three 
 
 #### Pennsylvania
 
-![Pennsylvania Prediction](images//Nxgr_error_map_rel_Pennsylvania.png "Pennsylvania Prediction")
+![Pennsylvania Prediction](images//xgr_error_map_rel_Pennsylvania.png "Pennsylvania Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -215,34 +215,37 @@ Models predicted a more competitive race in Pennsylvania than actual. While Mrs.
 
 #### Virginia
 
-Source: US Census and author’s calculation
+![Virginia Prediction](images//xgr_error_map_rel_Virginia.png "Virginia Prediction")
+
+*Source: US Census and author’s calculation*
+
 Virginia was painted bluer than the model predicted, as discussed in the classification model error section. Mrs. Clinton widened the lead in medium-sized counties such as Henrico and Arlington counties (model margins 4.9% and 45.9% respectively vs. 20.8% and 59.2% respectively) while she gained in some red counties, including Chesterfield and Chesapeake counties (model margin 16.8% and 10.8% for Mr. Trump respectively vs. actual 2.3% and 1.3% respectively).
 
-Blue: Mrs. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Virginia Prediction Map](images//xgr_error_map_rel_Virginia.png "Virginia Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Wisconsin
 
-Source: US Census and author’s calculation
+![Wisconsin Prediction](images//xgr_error_map_rel_Wisconsin.png "Wisconsin Prediction")
+
+*Source: US Census and author’s calculation*
+
 Wisconsin was another state where the actual result was tighter than model predictions. Mrs. Clinton widen the lead in Milwaukee city and Dane (Madison) county (model margin 30.1% and 40.2% respectively vs. actual 37.0% and 47.2% respectively)
 
-Blue: Mrs. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Wisconsin Prediction Map](images//xgr_error_map_rel_Wisconsin.png "Wisconsin Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 ### Implications for 2020 Election
 
 It is a long short to predict the results of 2020 presidential election from the models based on 2016 data. The models here are, however, based on fundamental characteristics of counties, and may provide some structural implications.
 
-For Democrat candidate to win the 2020 presidential race, s/he will need to add at least 38 electoral votes (EVs) to 232 EVs that Mrs. Clinton won in 2016. Without Florida’s 29 EVs, it would be difficult for Democrats to beat the counterpart. Based on the demographic and social profile, Arizona could provide 11EVs for democrats, while the state has been red for past five presidential elections. If not Arizona, Pennsylvania’s 20 EVs would suffice together with Florida.
+For the Democrat candidate to win the 2020 presidential race, s/he will need to add at least 38 electoral votes (EVs) to 232 EVs that Mrs. Clinton won in 2016. Without Florida’s 29 EVs, it would be difficult for Democrats to beat the counterpart. Based on the demographic and social profile, Arizona could provide 11EVs for democrats, while the state has been red for past five presidential elections. If not Arizona, Pennsylvania’s 20 EVs would suffice together with Florida.
 
 For the Republican candidate, keeping Florida and Pennsylvania red is critical. Michigan’s and Wisconsin’s 16 and 10 EVs respectively seem to be slightly more secured than the competitive 2016 result indicated.
 
-Source: US Census and author’s calculation
 
+![WBy State Prediction](images//state_prediction.png "By State Prediction vs Actual Margins")
 
-
-
-
-![US recession forecast 3m model](images//rfc_features.png "US recession forecast 3m model")
-
-![US recession forecast 6m model](images//svc_features.png "US recession forecast 6m model")
-
-![US recession forecast 12m model](images//xgc_features.png "US recession forecast 12m model")
+*Source: US Census and author’s calculation*
