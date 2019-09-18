@@ -183,7 +183,7 @@ Nevada could have been an easier state for Mrs. Clinton based on the models. Mr.
 
 #### New Hampshire
 
-![New Hampshire Prediction](images//xgr_error_map_rel_New_Hampshire.png "New Hampshire Prediction")
+![New Hampshire Prediction](images//New_Hampshire_prediction.png "New Hampshire Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -195,7 +195,7 @@ New Hampshire was slightly more competitive as the prediction. In two of the lar
 
 #### North Carolina
 
-![North Calorina Prediction](images//xgr_error_map_rel_North_Carolina.png "North Calorina Prediction")
+![North Calorina Prediction](images//North_Carolina_prediction.png "North Calorina Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -207,7 +207,7 @@ Mrs. Clinton performed better than model prediction in North Carolina. In three 
 
 #### Pennsylvania
 
-![Pennsylvania Prediction](images//xgr_error_map_rel_Pennsylvania.png "Pennsylvania Prediction")
+![Pennsylvania Prediction](images//Pennsylvania_prediction.png "Pennsylvania Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -219,7 +219,7 @@ Models predicted a more competitive race in Pennsylvania than actual. While Mrs.
 
 #### Virginia
 
-![Virginia Prediction](images//xgr_error_map_rel_Virginia.png "Virginia Prediction")
+![Virginia Prediction](images//Virginia_prediction.png "Virginia Prediction")
 
 *Source: US Census and author’s calculation*
 
@@ -231,7 +231,7 @@ Virginia was painted bluer than the model predicted, as discussed in the classif
 
 #### Wisconsin
 
-![Wisconsin Prediction](images//xgr_error_map_rel_Wisconsin.png "Wisconsin Prediction")
+![Wisconsin Prediction](images//Wisconsin_prediction.png "Wisconsin Prediction")
 
 *Source: US Census and author’s calculation*
 
