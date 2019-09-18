@@ -119,42 +119,70 @@ Florida was one of the most competitive states in 2016, and Mr. Trump won with a
 
 #### Iowa
 
-Source: US Census and author’s calculation
+![Iowa Prediction](images//Iowa_prediction.png "Iowa Prediction")
+
+*Source: US Census and author’s calculation*
+
 Iowa could have been much less competitive based on the models. Mrs. Clinton performed well in most populated counties including Polk (Des Moines) and Linn (Cedar Rapids) counties (model margins 4.3% for Mrs. Clinton and 7.0% for Mr. Trump respectively vs. actual 11.3% and 1.5% both for Mrs. Clinton respectively).
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Iowa Prediction Map](images//xgr_error_map_rel_Iowa.png "Iowa Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Michigan
 
-Source: US Census and author’s calculation
+![Michigan Prediction](images//Michigan_prediction.png "Michigan Prediction")
+
+*Source: US Census and author’s calculation*
+
 Michigan was another most competitive state in 2016, while the models predicted a wider margin for Mr. Trump. Mrs. Clinton gained more than models predicted in the Southern part of the state, including Wayne (Detroit) and Oakland (model margins 24.4% for Mrs. Clinton and 3.6% for Mr. Trump respectively vs. actual 37.3% and 8.1% both for Mrs. Clinton respectively)
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Michigan Prediction Map](images//xgr_error_map_rel_Michigan.png "Michigan Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Minnesota
 
-Source: US Census and author’s calculation
+![Minnesota Prediction](images//Minnesota_prediction.png "Minnesota Prediction")
+
+*Source: US Census and author’s calculation*
+
 Models predicted results as competitive as the actual result in Minnesota. Mrs. Clinton gained slightly more than model predictions in major three counties including Dakota which Model called Mr. Trump’s victory (model margins 2.5% for Mr. Trump vs. actual 4.7% for Mrs. Clinton)
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Minnesota Prediction Map](images//xgr_error_map_rel_Minnesota.png "Minnesota Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Ohio
 
-Source: US Census and author’s calculation
+![Ohio Prediction](images//Ohio_prediction.png "Ohio Prediction")
+
+*Source: US Census and author’s calculation*
+
 Models predicted Ohio well, while Mrs. Clinton gained more than the prediction in Cuyahoga (Cleveland) and Franklin (Columbus) counties (model margins 25.6% and 17.3% respectively vs. actual 35.4% 26.1% respectively)
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Ohio Prediction Map](images//xgr_error_map_rel_Ohio.png "Ohio Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Nevada
 
-Source: US Census and author’s calculation
+![Nevada Prediction](images//Nevada_prediction.png "Nevada Prediction")
+
+*Source: US Census and author’s calculation*
+
 Nevada could have been an easier state for Mrs. Clinton based on the models. Mr. Trump closed the rival impressively in Clark (Las Vegas) and Washoe (Reno) both blue counties (model margins 26.3% and 13.8% vs. actual 10.7% and 1.2%).
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Nevada Prediction Map](images//xgr_error_map_rel_Nevada.png "Nevada Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### New Hampshire
 
-Source: US Census and author’s calculation
+![New Hampshire Prediction](images//Nxgr_error_map_rel_New Hampshire.png "New Hampshire Prediction")
+
+*Source: US Census and author’s calculation*
+
 New Hampshire was slightly more competitive as the prediction. In two of the largest counties of Hillsborough and Rockingham counties, Mr. Trump gained more than model predictions (model margins 0.8% for Mrs. Clinton and 2.6% for Mr. Trump respectively vs. actual 0.2% and 5.8% both for Mr. Trump respectively)
 
 Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
