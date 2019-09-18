@@ -14,9 +14,12 @@ Dmitry Mikhaylov and Keita Miyaki
 
 ## Datasets
 - US Census: American Community Survey 5-Year Data
--- We used "Data Profile" table which offers more than 1,000 variables about broad social, economic, housing, and demographic information. 
+
+We used "Data Profile" table which offers more than 1,000 variables about broad social, economic, housing, and demographic information. 
+
 - MIT Election Data and Science Lab: "County Presidential Election Returns 2000-2016"
--- We used a dummy variable of Donald Trump winning in each county based on this dataset
+
+We used a dummy variable of Donald Trump winning in each county based on this dataset
 
 ## Data Cleaning
 We filtered US Census ACS variables into 260 features, which are in percentage points (not actual population figures), available at county level, and without values larger than 100 or negative. We removed counties in Puerto Rico because census data format was unique. We also dropped Alaska because presidential election districts do not correspond to counties.
@@ -26,7 +29,7 @@ We used classifier models of Random Forest, Support Vector Machine, and XGBoost 
 
 ## Analysis
 
-### County Level Prediction 
+### County Level Classification
 
 Firstly we look at county-level predictions. The questions included: whether or not basic social profiles of counties could determine the election results; if so, what the important features would be. I used US Census’s American Community Survey as the base data as well as the 2010 US Religion Census to add religious aspects of populations and applied some machine learning techniques.
 
@@ -54,7 +57,6 @@ The following box plots show top features in restricted models based on average 
 - The first feature represents the urban lifestyle of commuting by trains or busses, and cities are bluer than rural areas
 - While the Jewish religion is minority in most counties, it explains some important part of the division between blue and red counties
 
-
 ![Regularization Features](images//xgc_features_rel_reg_box.png "XGBoost Classifier Important Features with Regularization")
 
 *Source: US Census, author’s calculation*
@@ -62,14 +64,22 @@ The following box plots show top features in restricted models based on average 
 ### Model Errors
 
 The model wrongly predicted 5% of the results, and those 5% concentrated in counties where the margins were relatively narrow. With 1,000 of random trials, I rarely found that models mispredict the results in counties where a candidate won with a 25% or wider margin.
-In the following map, I indicated where the models oftentimes make mistakes. Dark blue means a high probability that models call for Mr. Trump but actually Mrs. Clinton won in the county and vice versa. While the fact that the errors are observed in certain counties indicates some biases from omitted factors, which could be county-specific information, the bias is small enough in the big picture.
 
 ![Model Mispredictions](images//xgc_misprediction_margin.png "XGBoost Classifier Mispredictions")
 
 *Source: US Census, author’s calculation*
 
-Blue: counties where models predicted red but Ms. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation
+In the following map, I indicated where the models oftentimes make mistakes. Dark blue means a high probability that models call for Mr. Trump but actually Mrs. Clinton won in the county and vice versa. While the fact that the errors are observed in certain counties indicates some biases from omitted factors, which could be county-specific information, the bias is small enough in the big picture.
+
+![Model Mispredictions](images//xgc_diff_map.png "XGBoost Classifier Mispredictions")
+
+*Blue: counties where models predicted red but Ms. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation*
+
 Here is a more detailed map of Washington D.C., Maryland, and Virginia. Some competitive counties in Virginia were difficult for the models; models always made mistakes in counties where Mrs. Clinton won with relatively narrow margins including Northampton (Mrs. Clinton 52.8% vs. Mr. Trump 43.5%), Prince Edward (C 50.2% vs. T 44.9%), Radford (C 48.1% vs. T 43.4%), Staunton (C 47.6% vs. T 45.6%), Surry (C 53.7% vs. T 43.0%), and Winchester (C 48.4% vs T 44.9%), while Lynchburg turned out to be red (C 41.5% vs. T 50.4%) despite the model predictions to be blue. In Maryland, Frederick county always confused the models (C 45.0% vs. T 47.4%).
+
+![Model Mispredictions](images//xgc_misprediction_margin.png "XGBoost Classifier Mispredictions")
+
+*Blue: counties where models predicted red but Ms. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation*
 
 Blue: counties where models predicted red but Mrs. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation
 Margin Models
