@@ -2,7 +2,7 @@
 
 ## Context
 
-The people in the United States are not well united when it comes to politics. While having different opinions and expressing their ideas are important foundations of democracy, a widening social cleavage may undermine the functionalities of the government and communities. The presidential election in 2016 provided a clear picture of where bipartisanship of the nation stands today, and led to a lot of intriguing discussions. In this project, we try to figure out how the social profiles of the population contributed to the voting results at the 2016 presidential election.
+The people in the United States are not well united when it comes to politics. While having different opinions and expressing their ideas are important foundations of democracy, a widening social cleavage may undermine the functionalities of the government and communities. The presidential election in 2016 provided a clear picture of where bipartisanship of the nation stands today, and led to a lot of intriguing discussions. In this project, we tried to figure out how the social profiles of the population contributed to the voting results at the 2016 presidential election. In the end, we found that the division of profiles between counties that voted for Mr. Trump and those supported Mrs. Clinton was so substantial that any models could tell the difference clearly. Major determinant factors are represented by racial proportion of the population and urban/rural division.
 
 ## Contributors
 Dmitry Mikhaylov and Keita Miyaki
@@ -28,30 +28,45 @@ We used classifier models of Random Forest, Support Vector Machine, and XGBoost 
 
 ### County Level Prediction 
 
-Firstly I will look at county-level predictions. The questions included: whether or not basic social profiles of counties could determine the election results; if so, what the important features would be. I used US Census’s American Community Survey as the base data as well as the 2010 US Religion Census to add religious aspects of populations and applied some machine learning techniques.
+Firstly we look at county-level predictions. The questions included: whether or not basic social profiles of counties could determine the election results; if so, what the important features would be. I used US Census’s American Community Survey as the base data as well as the 2010 US Religion Census to add religious aspects of populations and applied some machine learning techniques.
 
 ![Machine Learning Flow Chart](images//ml_flow_chart.png "Machine Learning Flow Chart")
 
-In the end, I found that the division of profiles between counties that voted for Mr. Trump and those supported Mrs. Clinton was so substantial that any models could tell the difference clearly. Major determinant factors are represented by racial proportion of the population and urban/rural division.
-Prediction Results
+### Prediction Results
 
-Class 0: Ms. Clinton. Class 1: Mr. Trump. Source: US Census, author’s calculation
 Following the common practice, I split the 3,112 counties into 70% and 30% for training and test datasets respectively, and trained models with the former group. The test results did not vary much by models, and each model marked test scores above 92%. For example, XGBoost model predicted Mr. Trump winning in 661 counties of which 638, or 97%, were true, while the model got 87% right for counties and cities voted for Mrs. Clinton; the total accuracy of the model prediction in test set was as high as 95%. This result indicates that social profile of each county explains much of the voting tendency of its population and there is a wide gap between red and blue counties.
-Determinant Features
 
-Source: US Census, author’s calculation
+![Confusion Matrix](images//cm_xgc.png "XGBoost Classifier Confusion Matrix")
+
+*Class 0: Ms. Clinton. Class 1: Mr. Trump. Source: US Census, author’s calculation*
+
+### Determinant Features
+
 The next question is about the determinants of results. It is not clear from the plain vanilla model, which is based on more than 150 features. Here we can use regularization techniques to reduce the number of features. By applying a strong L1 regularization factor we see less features used in a model. As the scatter chart indicates, extremely restricted models with 10 or fewer features still perform superbly.
+
+![Regularization Scores](images//xgc_reg_score.png "XGBoost Classifier Scores with Regularization")
+
+*Source: US Census, author’s calculation*
+
 The following box plots show top features in restricted models based on average importance scores
-Obviously the racial proportion of counties matters; counties which voted for Mr. Trump were distinctively more white than Mrs. Clinton’s counties, based on the second and fourth features; and fifth and sixth features tell an opposite trend about Asian populations in counties; while the difference in terms of African American population is not as critical, blue counties tend to have more African American population than red counties do
-The first feature represents the urban lifestyle of commuting by trains or busses, and cities are bluer than rural areas
-While the Jewish religion is minority in most counties, it explains some important part of the division between blue and red counties
 
-Source: US Census, author’s calculation
-Model Errors
+- Obviously the racial proportion of counties matters; counties which voted for Mr. Trump were distinctively more white than Mrs. Clinton’s counties, based on the second and fourth features; and fifth and sixth features tell an opposite trend about Asian populations in counties; while the difference in terms of African American population is not as critical, blue counties tend to have more African American population than red counties do
+- The first feature represents the urban lifestyle of commuting by trains or busses, and cities are bluer than rural areas
+- While the Jewish religion is minority in most counties, it explains some important part of the division between blue and red counties
 
-Source: US Census, author’s calculation
+
+![Regularization Features](images//xgc_features_rel_reg_box.png "XGBoost Classifier Important Features with Regularization")
+
+*Source: US Census, author’s calculation*
+
+### Model Errors
+
 The model wrongly predicted 5% of the results, and those 5% concentrated in counties where the margins were relatively narrow. With 1,000 of random trials, I rarely found that models mispredict the results in counties where a candidate won with a 25% or wider margin.
 In the following map, I indicated where the models oftentimes make mistakes. Dark blue means a high probability that models call for Mr. Trump but actually Mrs. Clinton won in the county and vice versa. While the fact that the errors are observed in certain counties indicates some biases from omitted factors, which could be county-specific information, the bias is small enough in the big picture.
+
+![Model Mispredictions](images//xgc_misprediction_margin.png "XGBoost Classifier Mispredictions")
+
+*Source: US Census, author’s calculation*
 
 Blue: counties where models predicted red but Ms. Clinton won. Red: counties where model predicted blue but Mr. Trump won. Source: US Census and author’s calculation
 Here is a more detailed map of Washington D.C., Maryland, and Virginia. Some competitive counties in Virginia were difficult for the models; models always made mistakes in counties where Mrs. Clinton won with relatively narrow margins including Northampton (Mrs. Clinton 52.8% vs. Mr. Trump 43.5%), Prince Edward (C 50.2% vs. T 44.9%), Radford (C 48.1% vs. T 43.4%), Staunton (C 47.6% vs. T 45.6%), Surry (C 53.7% vs. T 43.0%), and Winchester (C 48.4% vs T 44.9%), while Lynchburg turned out to be red (C 41.5% vs. T 50.4%) despite the model predictions to be blue. In Maryland, Frederick county always confused the models (C 45.0% vs. T 47.4%).
