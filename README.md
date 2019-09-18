@@ -179,27 +179,39 @@ Nevada could have been an easier state for Mrs. Clinton based on the models. Mr.
 
 #### New Hampshire
 
-![New Hampshire Prediction](images//Nxgr_error_map_rel_New Hampshire.png "New Hampshire Prediction")
+![New Hampshire Prediction](images//Nxgr_error_map_rel_New_Hampshire.png "New Hampshire Prediction")
 
 *Source: US Census and author’s calculation*
 
 New Hampshire was slightly more competitive as the prediction. In two of the largest counties of Hillsborough and Rockingham counties, Mr. Trump gained more than model predictions (model margins 0.8% for Mrs. Clinton and 2.6% for Mr. Trump respectively vs. actual 0.2% and 5.8% both for Mr. Trump respectively)
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![New Hampshire Prediction Map](images//xgr_error_map_rel_New_Hampshire.png "New Hampshire Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### North Carolina
 
-Source: US Census and author’s calculation
+![North Calorina Prediction](images//Nxgr_error_map_rel_North_Calorina.png "North Calorina Prediction")
+
+*Source: US Census and author’s calculation*
+
 Mrs. Clinton performed better than model prediction in North Carolina. In three of the largest counties of Wake (Raleigh), Mecklenburg(Charlotte), and Guilford (Greensboro) she widened the margins (model margins 4.2%, 25.0%, 13.1% respectively vs. actual 20.2%, 29.4%, 19.9%).
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![North Calorina Prediction Map](images//xgr_error_map_rel_North_Calorina.png "North Calorina Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Pennsylvania
 
-Source: US Census and author’s calculation
+![Pennsylvania Prediction](images//Nxgr_error_map_rel_Pennsylvania.png "Pennsylvania Prediction")
+
+*Source: US Census and author’s calculation*
+
 Models predicted a more competitive race in Pennsylvania than actual. While Mrs. Clinton gained a wider margin than predicted in Philadelphia (model margin 55.1% vs. actual 67.1%), smaller counties provided more support for Mr. Trump than predicted.
 
-Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation
+![Pennsylvania Prediction Map](images//xgr_error_map_rel_Pennsylvania.png "Pennsylvania Prediction Map")
+
+*Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
 #### Virginia
 
