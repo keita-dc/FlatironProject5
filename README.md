@@ -195,13 +195,13 @@ New Hampshire was slightly more competitive as the prediction. In two of the lar
 
 #### North Carolina
 
-![North Calorina Prediction](images//xgr_error_map_rel_North_Calorina.png "North Calorina Prediction")
+![North Calorina Prediction](images//xgr_error_map_rel_North_Carolina.png "North Calorina Prediction")
 
 *Source: US Census and author’s calculation*
 
 Mrs. Clinton performed better than model prediction in North Carolina. In three of the largest counties of Wake (Raleigh), Mecklenburg(Charlotte), and Guilford (Greensboro) she widened the margins (model margins 4.2%, 25.0%, 13.1% respectively vs. actual 20.2%, 29.4%, 19.9%).
 
-![North Calorina Prediction Map](images//xgr_error_map_rel_North_Calorina.png "North Calorina Prediction Map")
+![North Calorina Prediction Map](images//xgr_error_map_rel_North_Carolina.png "North Calorina Prediction Map")
 
 *Blue: Ms. Clinton gained more than models predicted. Red: Mr. Trump gained more than models predicted. Model: XGBoost. Source: US Census and author’s calculation*
 
